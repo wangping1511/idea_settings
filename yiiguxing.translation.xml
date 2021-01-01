@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Cannot identify version of git executable: no response" />
       <item value=": No URLs will be polled as dynamic configuration sources." />
       <item value="Prohibited package name:" />
       <item value="Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled." />
