@@ -1,0 +1,42 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="520" />
+    <option name="newTranslationDialogY" value="383" />
+    <histories>
+      <item value="consignee" />
+      <item value="The error occurred while setting parameters" />
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1" />
+      <item value="recommend" />
+      <item value="is_recommend" />
+      <item value="goods" />
+      <item value="point" />
+      <item value="p" />
+      <item value="org.springframework.validation.BeanPropertyBindingResult: 2 errors" />
+      <item value="Archive" />
+      <item value="Handler dispatch failed; nested exception is java.lang.NoSuchMethodError" />
+      <item value="surplus Loan" />
+      <item value="未知" />
+      <item value="wei zhi" />
+      <item value="PrioritizeNetworkReachabilityOverSleep" />
+      <item value=" Could not find the selected project in the reactor" />
+      <item value="Specifies the goals to execute, such as &quot;clean install&quot; or &quot;deploy&quot;. This field can also accept any other command line options to Maven, such as &quot;-e&quot; or &quot;-Djava.net.preferIPv4Stack=true&quot;." />
+      <item value="Exclude files from the Transfer set.&#10;&#10;The string is a comma separated list of excludes for an Ant fileset eg. '**/*.log,**/*.tmp,.git/' (see Patterns in the Ant manual)" />
+      <item value="Either Source files, Exec command or both must be supplied" />
+      <item value="Jenkins initial setup is required. An admin user has been created and a password generated.&#10;Please use the following password to proceed to installation:" />
+      <item value="openjdk@11 is keg-only, which means it was not symlinked into /usr/local,&#10;because this is an alternate version of another formula." />
+      <item value="If you need to have openjdk@11 first in your PATH run:" />
+      <item value="Do you wish to continue with the password provided?(Press y|Y for Yes, any other key for No)" />
+      <item value="The JAVA_HOME environment variable is not defined correctly&#10;This environment variable is needed to run this program&#10;NB: JAVA_HOME should point to a JDK not a JRE" />
+      <item value="tap" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1611739042936" />
+  </component>
+</application>
