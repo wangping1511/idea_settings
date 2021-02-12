@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="cloud" />
       <item value="consignee" />
       <item value="The error occurred while setting parameters" />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1" />
@@ -37,6 +38,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611739042936" />
+    <option name="lastTrimTime" value="1613136832569" />
   </component>
 </application>
