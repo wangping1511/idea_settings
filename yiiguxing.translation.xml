@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="only restory hotkey window" />
+      <item value="only restory hotkey win" />
+      <item value="only restory hotkey " />
+      <item value="only restory" />
+      <item value="only resot" />
+      <item value="only res" />
+      <item value="only e" />
+      <item value="only " />
       <item value="Cannot identify version of git executable: no response" />
       <item value=": No URLs will be polled as dynamic configuration sources." />
       <item value="Prohibited package name:" />
@@ -42,6 +50,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613136832569" />
+    <option name="lastTrimTime" value="1614058412112" />
   </component>
 </application>
