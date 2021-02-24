@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="provide" />
+      <item value="provi" />
+      <item value="p" />
+      <item value="Endpoint" />
       <item value="load Balancer Client" />
       <item value="开发&#10;" />
       <item value="development" />
@@ -30,7 +34,6 @@
       <item value="is_recommend" />
       <item value="goods" />
       <item value="point" />
-      <item value="p" />
       <item value="org.springframework.validation.BeanPropertyBindingResult: 2 errors" />
       <item value="Archive" />
       <item value="Handler dispatch failed; nested exception is java.lang.NoSuchMethodError" />
