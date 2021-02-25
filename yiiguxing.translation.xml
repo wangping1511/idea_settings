@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Unable to find RoutePredicateFactory with name path" />
       <item value="Dynamic Server List Load Balancer" />
       <item value="prototype" />
       <item value="No instances available for 172.20.10.2" />
@@ -52,12 +53,11 @@
       <item value="openjdk@11 is keg-only, which means it was not symlinked into /usr/local,&#10;because this is an alternate version of another formula." />
       <item value="If you need to have openjdk@11 first in your PATH run:" />
       <item value="Do you wish to continue with the password provided?(Press y|Y for Yes, any other key for No)" />
-      <item value="The JAVA_HOME environment variable is not defined correctly&#10;This environment variable is needed to run this program&#10;NB: JAVA_HOME should point to a JDK not a JRE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
