@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Read 1 entries from Error Information Log failed: GetLogPage failed: system=0x38, sub=0x0, code=745" />
+      <item value="Data Units Read" />
+      <item value="Percentage Used" />
+      <item value="Available Spare Threshold:" />
+      <item value="Available Spare" />
       <item value="transaction service group mapping" />
       <item value="metrics" />
       <item value="recovery" />
@@ -48,11 +53,6 @@
       <item value="Cannot identify version of git executable: no response" />
       <item value=": No URLs will be polled as dynamic configuration sources." />
       <item value="Prohibited package name:" />
-      <item value="Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled." />
-      <item value="cloud" />
-      <item value="consignee" />
-      <item value="The error occurred while setting parameters" />
-      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1" />
     </histories>
     <option name="languageScores">
       <map>
