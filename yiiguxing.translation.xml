@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="user: 'admin', state: opening):&#10;access to vhost '/' refused for user 'admin'" />
+      <item value=" Shutdown ignored - container is not active already" />
       <item value="Read 1 entries from Error Information Log failed: GetLogPage failed: system=0x38, sub=0x0, code=745" />
       <item value="Data Units Read" />
       <item value="Percentage Used" />
@@ -51,8 +53,6 @@
       <item value="only e" />
       <item value="only " />
       <item value="Cannot identify version of git executable: no response" />
-      <item value=": No URLs will be polled as dynamic configuration sources." />
-      <item value="Prohibited package name:" />
     </histories>
     <option name="languageScores">
       <map>
