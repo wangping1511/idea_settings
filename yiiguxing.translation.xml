@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Message published, but not routed." />
+      <item value="durable" />
       <item value="user: 'admin', state: opening):&#10;access to vhost '/' refused for user 'admin'" />
       <item value=" Shutdown ignored - container is not active already" />
       <item value="Read 1 entries from Error Information Log failed: GetLogPage failed: system=0x38, sub=0x0, code=745" />
@@ -51,8 +53,6 @@
       <item value="only resot" />
       <item value="only res" />
       <item value="only e" />
-      <item value="only " />
-      <item value="Cannot identify version of git executable: no response" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,6 +62,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614058412112" />
+    <option name="lastTrimTime" value="1614512538336" />
   </component>
 </application>
