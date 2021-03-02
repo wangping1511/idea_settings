@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="It is now possible to open projects in tabs on macOS Big Sur. [JBR-2893]&#10;For those who use Mac with an M1 chip, we've fixed shortcut issues [JBR-2981] [JBR-2999] and a JCEF issue related to the rendering of *.md files. [JBR-2991]&#10;The native keychain works as expected on Apple Silicon builds. [IDEA-258912]&#10;Fixed patch updates from v2020.3.2 Preview to the next IntelliJ IDEA 2020.3 builds. [IDEA-258792]&#10;Fixed the IDE's behavior when you double-click on a file in Local Changes. This action now opens the file in the editor. [IDEA-235910]" />
       <item value="Deprecated configuration property 'spring.data.elasticsearch.cluster-nodes' " />
       <item value="reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)" />
       <item value="channel error; protocol method:" />
@@ -52,7 +53,6 @@
       <item value="开发软件&#10;&#10;" />
       <item value="开发软件" />
       <item value="开发" />
-      <item value="only restory hotkey window" />
     </histories>
     <option name="languageScores">
       <map>
