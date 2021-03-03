@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Criteria Query" />
       <item value="=Invalid index name [Articles], must be lowercas" />
       <item value="Validation Failed: 1: no requests added;" />
       <item value="1: no requests added;" />
@@ -52,12 +53,11 @@
       <item value="Dynamic Server List Load Balancer" />
       <item value="prototype" />
       <item value="No instances available for 172.20.10.2" />
-      <item value="provide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
       </map>
     </option>
   </component>
