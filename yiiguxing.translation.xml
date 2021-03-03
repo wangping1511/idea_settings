@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Bulk index all objects. Will do save or update.&#10;Params:&#10;queries – the queries to execute in bulk&#10;Returns:&#10;the information about of the indexed objects" />
       <item value="bulk Add Article" />
       <item value="Keyword" />
       <item value="No DateFormat defined for property Article.lastUpdateTime. Make sure you have a Converter registered for LocalDateTime" />
@@ -52,7 +53,6 @@
       <item value="provi" />
       <item value="p" />
       <item value="Endpoint" />
-      <item value="load Balancer Client" />
     </histories>
     <option name="languageScores">
       <map>
