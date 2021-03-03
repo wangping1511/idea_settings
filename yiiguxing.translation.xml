@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="must" />
+      <item value="Bool Query Builder" />
+      <item value="should" />
+      <item value="Deprecated" />
+      <item value="No Repository Bean" />
       <item value="Criteria Query" />
       <item value="=Invalid index name [Articles], must be lowercas" />
       <item value="Validation Failed: 1: no requests added;" />
@@ -48,16 +53,11 @@
       <item value="sea&#10;" />
       <item value="seata&#10;" />
       <item value="seata" />
-      <item value="seat" />
-      <item value="Unable to find RoutePredicateFactory with name path" />
-      <item value="Dynamic Server List Load Balancer" />
-      <item value="prototype" />
-      <item value="No instances available for 172.20.10.2" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
