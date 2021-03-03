@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="bulk Add Article" />
       <item value="Keyword" />
       <item value="No DateFormat defined for property Article.lastUpdateTime. Make sure you have a Converter registered for LocalDateTime" />
       <item value="No DateFormat defined for property Article.createTime" />
@@ -52,12 +53,11 @@
       <item value="p" />
       <item value="Endpoint" />
       <item value="load Balancer Client" />
-      <item value="开发&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
