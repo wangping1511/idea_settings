@@ -3,12 +3,13 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="pre Tags" />
+      <item value="match Phrase Query" />
       <item value="gcc: the bottle needs the Xcode CLT to be installed.You can try to install from source with:&#10;  brew install --build-from-source gcc&#10;Please note building from source is unsupported. You will encounter build&#10;failures with some formulae. If you experience any issues please create pull&#10;requests instead of asking for help on Homebrew's GitHub, Twitter or any other" />
       <item value="Elasticsearch exception [type=date_time_parse_exception, reason=Failed to parse with all enclosed parsers]" />
       <item value="ailed to parse field [lastUpdateTime] of type [date] in document with id '2'" />
       <item value="minimum Should Match" />
       <item value="PHRASE" />
-      <item value="match Phrase Query" />
       <item value="match Query" />
       <item value="must" />
       <item value="Bool Query Builder" />
@@ -52,12 +53,11 @@
       <item value="feign" />
       <item value="ribbon" />
       <item value="ri b" />
-      <item value="ri" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
       </map>
     </option>
   </component>
