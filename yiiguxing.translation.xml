@@ -3,6 +3,22 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="add Filter Before" />
+      <item value="The part after &quot;Bearer &quot;" />
+      <item value="Bearer" />
+      <item value="do Filter Internal" />
+      <item value="authentication Entry Point" />
+      <item value="access Denied Handler" />
+      <item value="Method annotated with @Bean is called directly. Use dependency injection instead. " />
+      <item value="exception Handling" />
+      <item value="STATELESS" />
+      <item value="csrf" />
+      <item value="authorize Requests" />
+      <item value="authenticated" />
+      <item value="any Request" />
+      <item value="pre Post Enabled" />
+      <item value="Enable Global Method Security" />
+      <item value="set My Access Decision Manager" />
       <item value="select By Example" />
       <item value="Equals And Hash Code" />
       <item value="No formulae or casks found for &quot;nacos&quot;" />
@@ -37,27 +53,11 @@
       <item value="NONE" />
       <item value="CORRELATED" />
       <item value="rabbitmqsimple" />
-      <item value="Message published, but not routed." />
-      <item value="durable" />
-      <item value="user: 'admin', state: opening):&#10;access to vhost '/' refused for user 'admin'" />
-      <item value=" Shutdown ignored - container is not active already" />
-      <item value="Read 1 entries from Error Information Log failed: GetLogPage failed: system=0x38, sub=0x0, code=745" />
-      <item value="Data Units Read" />
-      <item value="Percentage Used" />
-      <item value="Available Spare Threshold:" />
-      <item value="Available Spare" />
-      <item value="transaction service group mapping" />
-      <item value="metrics" />
-      <item value="recovery" />
-      <item value="endpoint format should like ip:port" />
-      <item value="Test Transation Service" />
-      <item value="Inner class 'TestController' may be 'static' " />
-      <item value="feign&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
