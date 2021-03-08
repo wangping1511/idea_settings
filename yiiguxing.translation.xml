@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="No formulae or casks found for &quot;nacos&quot;" />
       <item value="pre Tags" />
       <item value="match Phrase Query" />
       <item value="gcc: the bottle needs the Xcode CLT to be installed.You can try to install from source with:&#10;  brew install --build-from-source gcc&#10;Please note building from source is unsupported. You will encounter build&#10;failures with some formulae. If you experience any issues please create pull&#10;requests instead of asking for help on Homebrew's GitHub, Twitter or any other" />
@@ -52,7 +53,6 @@
       <item value="feign&#10;" />
       <item value="feign" />
       <item value="ribbon" />
-      <item value="ri b" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,6 +62,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614512538336" />
+    <option name="lastTrimTime" value="1615187194407" />
   </component>
 </application>
