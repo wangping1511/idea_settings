@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Equals And Hash Code" />
       <item value="No formulae or casks found for &quot;nacos&quot;" />
       <item value="pre Tags" />
       <item value="match Phrase Query" />
@@ -52,12 +53,11 @@
       <item value="Inner class 'TestController' may be 'static' " />
       <item value="feign&#10;" />
       <item value="feign" />
-      <item value="ribbon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
       </map>
     </option>
   </component>
