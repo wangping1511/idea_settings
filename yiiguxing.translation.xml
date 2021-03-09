@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="last Packet Received Idle Millis" />
       <item value="Enabling plugins on node rabbit@localhost:&#10;rabbitmq_delayed_message_exchange&#10;The following plugins have been configured:&#10;  rabbitmq_amqp1_0&#10;  rabbitmq_delayed_message_exchange&#10;  rabbitmq_management&#10;  rabbitmq_management_agent&#10;  rabbitmq_mqtt&#10;  rabbitmq_stomp&#10;  rabbitmq_web_dispatch&#10;Applying plugin configuration to rabbit@localhost...&#10;The following plugins have been enabled:&#10;  rabbitmq_delayed_message_exchange&#10;&#10;set 7 plugins.&#10;Offline change; changes will take effect at broker restart." />
       <item value="add Filter Before" />
       <item value="The part after &quot;Bearer &quot;" />
@@ -52,12 +53,11 @@
       <item value="reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)" />
       <item value="channel error; protocol method:" />
       <item value="NONE" />
-      <item value="CORRELATED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
       </map>
     </option>
   </component>
