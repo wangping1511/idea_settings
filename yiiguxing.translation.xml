@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="余额" />
+      <item value="yue" />
       <item value="No compiler is provided in this environment. Perhaps you are running on a JRE rather than a JDK?" />
       <item value="The path to the private key.&#10;&#10;Either supply the path to the file containing the key, or paste the key into the Key box.&#10;The Path to key can be absolute, or relative to $JENKINS_HOME" />
       <item value="Please login as the user &quot;ec2-user&quot; rather than the user &quot;root&quot;." />
@@ -51,8 +53,6 @@
       <item value="assets" />
       <item value="bak Wpy Assets" />
       <item value="bak Wpy Assert" />
-      <item value="备份" />
-      <item value="递归&#10;" />
     </histories>
     <option name="languageScores">
       <map>
