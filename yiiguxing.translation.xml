@@ -3,65 +3,67 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
-      <item value="last Packet Received Idle Millis" />
-      <item value="Enabling plugins on node rabbit@localhost:&#10;rabbitmq_delayed_message_exchange&#10;The following plugins have been configured:&#10;  rabbitmq_amqp1_0&#10;  rabbitmq_delayed_message_exchange&#10;  rabbitmq_management&#10;  rabbitmq_management_agent&#10;  rabbitmq_mqtt&#10;  rabbitmq_stomp&#10;  rabbitmq_web_dispatch&#10;Applying plugin configuration to rabbit@localhost...&#10;The following plugins have been enabled:&#10;  rabbitmq_delayed_message_exchange&#10;&#10;set 7 plugins.&#10;Offline change; changes will take effect at broker restart." />
-      <item value="add Filter Before" />
-      <item value="The part after &quot;Bearer &quot;" />
-      <item value="Bearer" />
-      <item value="do Filter Internal" />
-      <item value="authentication Entry Point" />
-      <item value="access Denied Handler" />
-      <item value="Method annotated with @Bean is called directly. Use dependency injection instead. " />
-      <item value="exception Handling" />
-      <item value="STATELESS" />
-      <item value="csrf" />
-      <item value="authorize Requests" />
-      <item value="authenticated" />
-      <item value="any Request" />
-      <item value="pre Post Enabled" />
-      <item value="Enable Global Method Security" />
-      <item value="set My Access Decision Manager" />
-      <item value="select By Example" />
-      <item value="Equals And Hash Code" />
-      <item value="No formulae or casks found for &quot;nacos&quot;" />
-      <item value="pre Tags" />
-      <item value="match Phrase Query" />
-      <item value="gcc: the bottle needs the Xcode CLT to be installed.You can try to install from source with:&#10;  brew install --build-from-source gcc&#10;Please note building from source is unsupported. You will encounter build&#10;failures with some formulae. If you experience any issues please create pull&#10;requests instead of asking for help on Homebrew's GitHub, Twitter or any other" />
-      <item value="Elasticsearch exception [type=date_time_parse_exception, reason=Failed to parse with all enclosed parsers]" />
-      <item value="ailed to parse field [lastUpdateTime] of type [date] in document with id '2'" />
-      <item value="minimum Should Match" />
-      <item value="PHRASE" />
-      <item value="match Query" />
-      <item value="must" />
-      <item value="Bool Query Builder" />
-      <item value="should" />
-      <item value="Deprecated" />
-      <item value="No Repository Bean" />
-      <item value="Criteria Query" />
-      <item value="=Invalid index name [Articles], must be lowercas" />
-      <item value="Validation Failed: 1: no requests added;" />
-      <item value="1: no requests added;" />
-      <item value="Bulk index all objects. Will do save or update.&#10;Params:&#10;queries – the queries to execute in bulk&#10;Returns:&#10;the information about of the indexed objects" />
-      <item value="bulk Add Article" />
-      <item value="Keyword" />
-      <item value="No DateFormat defined for property Article.lastUpdateTime. Make sure you have a Converter registered for LocalDateTime" />
-      <item value="No DateFormat defined for property Article.createTime" />
-      <item value="文章" />
-      <item value="wen z" />
-      <item value="It is now possible to open projects in tabs on macOS Big Sur. [JBR-2893]&#10;For those who use Mac with an M1 chip, we've fixed shortcut issues [JBR-2981] [JBR-2999] and a JCEF issue related to the rendering of *.md files. [JBR-2991]&#10;The native keychain works as expected on Apple Silicon builds. [IDEA-258912]&#10;Fixed patch updates from v2020.3.2 Preview to the next IntelliJ IDEA 2020.3 builds. [IDEA-258792]&#10;Fixed the IDE's behavior when you double-click on a file in Local Changes. This action now opens the file in the editor. [IDEA-235910]" />
-      <item value="Deprecated configuration property 'spring.data.elasticsearch.cluster-nodes' " />
-      <item value="reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)" />
-      <item value="channel error; protocol method:" />
-      <item value="NONE" />
+      <item value="The path to the private key.&#10;&#10;Either supply the path to the file containing the key, or paste the key into the Key box.&#10;The Path to key can be absolute, or relative to $JENKINS_HOME" />
+      <item value="Please login as the user &quot;ec2-user&quot; rather than the user &quot;root&quot;." />
+      <item value="@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#10;@         WARNING: UNPROTECTED PRIVATE KEY FILE!          @&#10;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#10;Permissions 0555 for 'front.pem' are too open.&#10;It is required that your private key files are NOT accessible by others.&#10;This private key will be ignored." />
+      <item value="sudo chmod 600 key.pem " />
+      <item value="Permissions 0555 for 'front.pem' are too open.&#10;It is required that your private key files are NOT accessible by others.&#10;This private key will be ignored." />
+      <item value="withdraw Set" />
+      <item value="surplus" />
+      <item value="Build an application specific XML for inserting or importing data" />
+      <item value="Access denied for user 'root'@'localhost' (using password: YES)" />
+      <item value="user Nick" />
+      <item value="opt Auth Date" />
+      <item value="share Group 1 Unit Reward" />
+      <item value="奖励" />
+      <item value="unit" />
+      <item value="insert Batch" />
+      <item value="BigDecimal.divide()' called without a rounding mode argument" />
+      <item value="unit Reward" />
+      <item value="单价&#10;" />
+      <item value="user Count" />
+      <item value="总奖励&#10;" />
+      <item value="separator" />
+      <item value="jackson 2 Object Mapper Builder Customizer" />
+      <item value="coin hold share date" />
+      <item value="coin hold share_date" />
+      <item value="coin hold_share_date" />
+      <item value="coin_hold_share_date" />
+      <item value="coin group divide config" />
+      <item value="coin group divide_config" />
+      <item value="coingroup divide_config" />
+      <item value="coin-group divide_config" />
+      <item value="coin-group-divide_config" />
+      <item value="coin-group_divide_config" />
+      <item value="coin_group_divide_config" />
+      <item value="coin group share date" />
+      <item value="coin group share_date" />
+      <item value="coin group_share_date" />
+      <item value="coin_group_share_date" />
+      <item value="peek" />
+      <item value="filter" />
+      <item value="divide" />
+      <item value="divide_config" />
+      <item value="share" />
+      <item value="sha" />
+      <item value="sh" />
+      <item value="assets" />
+      <item value="bak Wpy Assets" />
+      <item value="bak Wpy Assert" />
+      <item value="备份" />
+      <item value="递归&#10;" />
+      <item value="tail -100f &#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
+        <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615187194407" />
+    <option name="lastTrimTime" value="1615621218524" />
   </component>
 </application>
