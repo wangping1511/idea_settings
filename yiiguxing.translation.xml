@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Listening for transport dt_socket at address: 5005&#10;" />
       <item value="REQUIRED" />
       <item value="wr" />
       <item value="propagation" />
@@ -52,7 +53,6 @@
       <item value="filter" />
       <item value="divide" />
       <item value="divide_config" />
-      <item value="share" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615621218524" />
+    <option name="lastTrimTime" value="1616074680344" />
   </component>
 </application>
