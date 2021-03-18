@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="propagation" />
       <item value="撤单" />
       <item value="ce dan" />
       <item value="余额" />
@@ -52,12 +53,11 @@
       <item value="share" />
       <item value="sha" />
       <item value="sh" />
-      <item value="assets" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
