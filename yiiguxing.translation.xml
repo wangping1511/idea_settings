@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="REQUIRED" />
+      <item value="wr" />
       <item value="propagation" />
       <item value="撤单" />
       <item value="ce dan" />
@@ -51,15 +53,14 @@
       <item value="divide" />
       <item value="divide_config" />
       <item value="share" />
-      <item value="sha" />
-      <item value="sh" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
