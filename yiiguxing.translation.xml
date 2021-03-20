@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Bad directive or wrong number of arguments" />
+      <item value="It looks like all redis flags are -- so that needs to be --port 7000 to work." />
       <item value="RedisConnectionFactory is required" />
       <item value="&#10;divisor – value by which this BigDecimal is to be divided.&#10;roundingMode – rounding mode to apply." />
       <item value="Command Agent Launcher Plugin&#10;Allows agents to be launched using a specified command." />
@@ -51,8 +53,6 @@
       <item value="coin group divide_config" />
       <item value="coingroup divide_config" />
       <item value="coin-group divide_config" />
-      <item value="coin-group-divide_config" />
-      <item value="coin-group_divide_config" />
     </histories>
     <option name="languageScores">
       <map>
