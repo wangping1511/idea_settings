@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Permission denied (publickey,gssapi-keyex,gssapi-with-mic)." />
       <item value="print Stack Trace" />
       <item value="coin" />
       <item value="Parameter 'userId' not found. Available parameters are [collection, list]" />
@@ -52,7 +53,6 @@
       <item value="coin hold share_date" />
       <item value="coin hold_share_date" />
       <item value="coin_hold_share_date" />
-      <item value="coin group divide config" />
     </histories>
     <option name="languageScores">
       <map>
