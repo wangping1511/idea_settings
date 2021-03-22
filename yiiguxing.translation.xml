@@ -3,12 +3,17 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Initiating transaction rollback" />
+      <item value="Global transaction is marked as rollback-only but transactional code requested commit" />
+      <item value="Participating in existing transaction" />
+      <item value="to manual commit" />
+      <item value="Switching JDBC Connection" />
+      <item value="Began transaction (1) for test context" />
       <item value="Rolling back JDBC transaction on Connection" />
       <item value="Rolling" />
       <item value="PROPAGATION REQUIRED,ISOLATION DEFAULT" />
       <item value="Creating new transaction with name" />
       <item value="Participating transaction failed - marking existing transaction as rollback-only" />
-      <item value="Participating in existing transaction" />
       <item value="Switching JDBC Connection [HikariProxyConnection@1981708431 wrapping com.mysql.cj.jdbc.ConnectionImpl@6a472566] to manual commit" />
       <item value="Support a current transaction, execute non-transactionally if none exists. Analogous to EJB transaction attribute of the same name.&#10;Note: For transaction managers with transaction synchronization, SUPPORTS is slightly different from no transaction at all, as it defines a transaction scope that synchronization will apply for. As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) will be shared for the entire specified scope. Note that this depends on the actual synchronization configuration of the transaction manager." />
       <item value="Support a current transaction, create a new one if none exists. Analogous to EJB transaction attribute of the same name.&#10;This is the default setting of a transaction annotation." />
@@ -48,16 +53,11 @@
       <item value="withdraw Set" />
       <item value="surplus" />
       <item value="Build an application specific XML for inserting or importing data" />
-      <item value="Access denied for user 'root'@'localhost' (using password: YES)" />
-      <item value="user Nick" />
-      <item value="opt Auth Date" />
-      <item value="share Group 1 Unit Reward" />
-      <item value="奖励" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
