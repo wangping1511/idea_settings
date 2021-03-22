@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Support a current transaction, execute non-transactionally if none exists. Analogous to EJB transaction attribute of the same name.&#10;Note: For transaction managers with transaction synchronization, SUPPORTS is slightly different from no transaction at all, as it defines a transaction scope that synchronization will apply for. As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) will be shared for the entire specified scope. Note that this depends on the actual synchronization configuration of the transaction manager." />
       <item value="Support a current transaction, create a new one if none exists. Analogous to EJB transaction attribute of the same name.&#10;This is the default setting of a transaction annotation." />
       <item value="REQUIRED" />
       <item value="Transactional" />
@@ -52,7 +53,6 @@
       <item value="单价&#10;" />
       <item value="user Count" />
       <item value="总奖励&#10;" />
-      <item value="separator" />
     </histories>
     <option name="languageScores">
       <map>
