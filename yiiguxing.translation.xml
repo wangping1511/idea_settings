@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Rolling back JDBC transaction on Connection" />
+      <item value="Rolling" />
+      <item value="PROPAGATION REQUIRED,ISOLATION DEFAULT" />
+      <item value="Creating new transaction with name" />
+      <item value="Participating transaction failed - marking existing transaction as rollback-only" />
+      <item value="Participating in existing transaction" />
+      <item value="Switching JDBC Connection [HikariProxyConnection@1981708431 wrapping com.mysql.cj.jdbc.ConnectionImpl@6a472566] to manual commit" />
       <item value="Support a current transaction, execute non-transactionally if none exists. Analogous to EJB transaction attribute of the same name.&#10;Note: For transaction managers with transaction synchronization, SUPPORTS is slightly different from no transaction at all, as it defines a transaction scope that synchronization will apply for. As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) will be shared for the entire specified scope. Note that this depends on the actual synchronization configuration of the transaction manager." />
       <item value="Support a current transaction, create a new one if none exists. Analogous to EJB transaction attribute of the same name.&#10;This is the default setting of a transaction annotation." />
       <item value="REQUIRED" />
@@ -46,18 +53,11 @@
       <item value="opt Auth Date" />
       <item value="share Group 1 Unit Reward" />
       <item value="奖励" />
-      <item value="unit" />
-      <item value="insert Batch" />
-      <item value="BigDecimal.divide()' called without a rounding mode argument" />
-      <item value="unit Reward" />
-      <item value="单价&#10;" />
-      <item value="user Count" />
-      <item value="总奖励&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
