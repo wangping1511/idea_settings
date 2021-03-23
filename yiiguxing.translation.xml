@@ -3,13 +3,20 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value=": Acquired Connection" />
+      <item value="Resuming suspended transaction after completion of inner transaction" />
+      <item value="Suspending current transaction, creating new transaction with name" />
+      <item value="Create a new transaction, and suspend the current transaction if one exists" />
       <item value="No existing transaction found for transaction marked with propagation 'mandatory'" />
-      <item value="Support a current transaction, execute non-transactionally if none exists. Analogous to EJB transaction attribute of the same name.&#10;Note: For transaction managers with transaction synchronization, SUPPORTS is slightly different from no transaction at all, as it defines a transaction scope that synchronization will apply for. As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) will be shared for the entire specified scope. Note that this depends on the actual synchronization configuration of the transaction manager." />
+      <item value="Support a current transaction, throw an exception if none exists. Analogous to EJB transaction attribute of the same name." />
       <item value="Should roll back transaction but cannot - no transaction available" />
+      <item value="Participating in existing transaction" />
+      <item value="Support a current transaction; create a new one if none exists. Analogous to the EJB transaction attribute of the same name." />
+      <item value="In general, use PROPAGATION_SUPPORTS with care! In particular, do not rely on PROPAGATION_REQUIRED or PROPAGATION_REQUIRES_NEW within a PROPAGATION_SUPPORTS scope (which may lead to synchronization conflicts at runtime). If such nesting is unavoidable, make sure to configure your transaction manager appropriately (typically switching to &quot;synchronization on actual transaction&quot;)." />
       <item value="Support a current transaction, execute non-transactionally if none exists. Analogous to EJB transaction attribute of the same name." />
+      <item value="Support a current transaction, execute non-transactionally if none exists. Analogous to EJB transaction attribute of the same name.&#10;Note: For transaction managers with transaction synchronization, SUPPORTS is slightly different from no transaction at all, as it defines a transaction scope that synchronization will apply for. As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) will be shared for the entire specified scope. Note that this depends on the actual synchronization configuration of the transaction manager." />
       <item value="Initiating transaction rollback" />
       <item value="Global transaction is marked as rollback-only but transactional code requested commit" />
-      <item value="Participating in existing transaction" />
       <item value="to manual commit" />
       <item value="Switching JDBC Connection" />
       <item value="Began transaction (1) for test context" />
@@ -46,18 +53,11 @@
       <item value="撤单" />
       <item value="ce dan" />
       <item value="余额" />
-      <item value="yue" />
-      <item value="No compiler is provided in this environment. Perhaps you are running on a JRE rather than a JDK?" />
-      <item value="The path to the private key.&#10;&#10;Either supply the path to the file containing the key, or paste the key into the Key box.&#10;The Path to key can be absolute, or relative to $JENKINS_HOME" />
-      <item value="Please login as the user &quot;ec2-user&quot; rather than the user &quot;root&quot;." />
-      <item value="@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#10;@         WARNING: UNPROTECTED PRIVATE KEY FILE!          @&#10;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#10;Permissions 0555 for 'front.pem' are too open.&#10;It is required that your private key files are NOT accessible by others.&#10;This private key will be ignored." />
-      <item value="sudo chmod 600 key.pem " />
-      <item value="Permissions 0555 for 'front.pem' are too open.&#10;It is required that your private key files are NOT accessible by others.&#10;This private key will be ignored." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
