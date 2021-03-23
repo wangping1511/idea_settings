@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="assert" />
       <item value="白皮书&#10;" />
       <item value="bai pi s" />
       <item value="bai" />
@@ -52,7 +53,6 @@
       <item value="RedisConnectionFactory is required" />
       <item value="&#10;divisor – value by which this BigDecimal is to be divided.&#10;roundingMode – rounding mode to apply." />
       <item value="Command Agent Launcher Plugin&#10;Allows agents to be launched using a specified command." />
-      <item value="bouncycastle API Plugin&#10;This plugin provides an stable API to Bouncy Castle related tasks.&#9;&#10;Checks API plugin&#10;This plugin defines an API for Jenkins to publish checks to SCM platforms." />
     </histories>
     <option name="languageScores">
       <map>
