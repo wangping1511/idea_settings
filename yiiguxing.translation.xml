@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="空投" />
+      <item value="kong tou" />
+      <item value="kong t" />
+      <item value="kong tao" />
+      <item value="kong tiao" />
+      <item value="空t" />
+      <item value="空tiao" />
       <item value="increase Storage Coin" />
       <item value="PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: CERTIFICATE REQUEST" />
       <item value=" [emerg] PEM_read_bio_X509_AUX(&quot;/etc/ssl/generated-csr.txt&quot;) failed (SSL: error:0906D06C:PEM routines:PEM_read_bio:no start line:Expecting: TRUSTED CERTIFICATE)" />
@@ -46,13 +53,6 @@
       <item value="Switching JDBC Connection [HikariProxyConnection@1981708431 wrapping com.mysql.cj.jdbc.ConnectionImpl@6a472566] to manual commit" />
       <item value="Support a current transaction, create a new one if none exists. Analogous to EJB transaction attribute of the same name.&#10;This is the default setting of a transaction annotation." />
       <item value="REQUIRED" />
-      <item value="Transactional" />
-      <item value="Trancation" />
-      <item value="mined Date" />
-      <item value="Identity added: wpy.pem (wpy.pem)" />
-      <item value="Permission denied (publickey,gssapi-keyex,gssapi-with-mic)." />
-      <item value="print Stack Trace" />
-      <item value="coin" />
     </histories>
     <option name="languageScores">
       <map>
