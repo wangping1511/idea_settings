@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value=" [emerg] PEM_read_bio_X509_AUX(&quot;/etc/ssl/generated-csr.txt&quot;) failed (SSL: error:0906D06C:PEM routines:PEM_read_bio:no start line:Expecting: TRUSTED CERTIFICATE)" />
       <item value="单位分红" />
       <item value="单位" />
       <item value="分红" />
@@ -52,7 +53,6 @@
       <item value="coin" />
       <item value="Parameter 'userId' not found. Available parameters are [collection, list]" />
       <item value="Bad directive or wrong number of arguments" />
-      <item value="It looks like all redis flags are -- so that needs to be --port 7000 to work." />
     </histories>
     <option name="languageScores">
       <map>
