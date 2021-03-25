@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Component" />
       <item value="Қытайдың жауыз билігіне жауыздығыңды тоқтатдейтін бір күш болама болмайма" />
       <item value="&#10;Қытайдың жауыз билігіне жауыздығыңды тоқтатдейтін бір күш болама болмайма" />
       <item value="&#10;qazaq byn&#10;1年前&#10;Қытайдың жауыз билігіне жауыздығыңды тоқтатдейтін бір күш болама болмайма" />
@@ -52,12 +53,11 @@
       <item value="Rolling" />
       <item value="PROPAGATION REQUIRED,ISOLATION DEFAULT" />
       <item value="Creating new transaction with name" />
-      <item value="Participating transaction failed - marking existing transaction as rollback-only" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
