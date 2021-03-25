@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Қытайдың жауыз билігіне жауыздығыңды тоқтатдейтін бір күш болама болмайма" />
+      <item value="&#10;Қытайдың жауыз билігіне жауыздығыңды тоқтатдейтін бір күш болама болмайма" />
+      <item value="&#10;qazaq byn&#10;1年前&#10;Қытайдың жауыз билігіне жауыздығыңды тоқтатдейтін бір күш болама болмайма" />
       <item value="空投" />
       <item value="kong tou" />
       <item value="kong t" />
@@ -50,9 +53,6 @@
       <item value="PROPAGATION REQUIRED,ISOLATION DEFAULT" />
       <item value="Creating new transaction with name" />
       <item value="Participating transaction failed - marking existing transaction as rollback-only" />
-      <item value="Switching JDBC Connection [HikariProxyConnection@1981708431 wrapping com.mysql.cj.jdbc.ConnectionImpl@6a472566] to manual commit" />
-      <item value="Support a current transaction, create a new one if none exists. Analogous to EJB transaction attribute of the same name.&#10;This is the default setting of a transaction annotation." />
-      <item value="REQUIRED" />
     </histories>
     <option name="languageScores">
       <map>
