@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="requires building tools, but none are installed.&#10;Install the Command Line Tools:&#10;  xcode-select --install" />
       <item value="SELECT command denied to user 'root'@'ip-172-31-18-120.ap-east-1.compute.internal' for table 'sys_user'" />
       <item value="When you look and read Liziqi's description in this video, she gave credits to Korea as the owner and creator of Kimchi. The only thing wrong in this situation is the hashtag  &quot;Chinese food&quot;." />
       <item value="지들말에 &quot;김(kim)&quot;이란 말도 없으면서 뭔ㅋㅋㅋㅋㅋ&#10;설마 &quot;진(jin)차이(chi)&quot;라고 읽는건 아니지??&#10;There is no word &quot;Kim&quot; in China." />
@@ -52,7 +53,6 @@
       <item value="Support a current transaction, throw an exception if none exists. Analogous to EJB transaction attribute of the same name." />
       <item value="Should roll back transaction but cannot - no transaction available" />
       <item value="Participating in existing transaction" />
-      <item value="Support a current transaction; create a new one if none exists. Analogous to the EJB transaction attribute of the same name." />
     </histories>
     <option name="languageScores">
       <map>
