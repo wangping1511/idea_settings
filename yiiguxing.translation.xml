@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="jmeter: no bottle available!" />
       <item value="Please wait for it to finish or terminate it to continue." />
       <item value="To retry an incomplete download, remove the file above." />
       <item value="requires building tools, but none are installed.&#10;Install the Command Line Tools:&#10;  xcode-select --install" />
@@ -52,7 +53,6 @@
       <item value="Suspending current transaction, creating new transaction with name" />
       <item value="Create a new transaction, and suspend the current transaction if one exists" />
       <item value="No existing transaction found for transaction marked with propagation 'mandatory'" />
-      <item value="Support a current transaction, throw an exception if none exists. Analogous to EJB transaction attribute of the same name." />
     </histories>
     <option name="languageScores">
       <map>
