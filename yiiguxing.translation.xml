@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="SELECT command denied to user 'root'@'ip-172-31-18-120.ap-east-1.compute.internal' for table 'sys_user'" />
       <item value="When you look and read Liziqi's description in this video, she gave credits to Korea as the owner and creator of Kimchi. The only thing wrong in this situation is the hashtag  &quot;Chinese food&quot;." />
       <item value="지들말에 &quot;김(kim)&quot;이란 말도 없으면서 뭔ㅋㅋㅋㅋㅋ&#10;설마 &quot;진(jin)차이(chi)&quot;라고 읽는건 아니지??&#10;There is no word &quot;Kim&quot; in China." />
       <item value="For those who haven't read yet, in the description Liziqi has stated in English that &quot;Kimchi is traditional food from Yanbian Korean&quot;. I dont know where Yanbian is, but she didn't said that kimchi belongs to her.  She only cooked it in her own style, make a meat soup with it, which's suitable to eat during winter. Thanks." />
@@ -52,7 +53,6 @@
       <item value="Should roll back transaction but cannot - no transaction available" />
       <item value="Participating in existing transaction" />
       <item value="Support a current transaction; create a new one if none exists. Analogous to the EJB transaction attribute of the same name." />
-      <item value="In general, use PROPAGATION_SUPPORTS with care! In particular, do not rely on PROPAGATION_REQUIRED or PROPAGATION_REQUIRES_NEW within a PROPAGATION_SUPPORTS scope (which may lead to synchronization conflicts at runtime). If such nesting is unavoidable, make sure to configure your transaction manager appropriately (typically switching to &quot;synchronization on actual transaction&quot;)." />
     </histories>
     <option name="languageScores">
       <map>
