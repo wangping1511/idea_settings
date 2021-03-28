@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Logstash stopped processing because of an error: (SystemExit) exit" />
       <item value="jmeter: no bottle available!" />
       <item value="Please wait for it to finish or terminate it to continue." />
       <item value="To retry an incomplete download, remove the file above." />
@@ -52,7 +53,6 @@
       <item value="Resuming suspended transaction after completion of inner transaction" />
       <item value="Suspending current transaction, creating new transaction with name" />
       <item value="Create a new transaction, and suspend the current transaction if one exists" />
-      <item value="No existing transaction found for transaction marked with propagation 'mandatory'" />
     </histories>
     <option name="languageScores">
       <map>
