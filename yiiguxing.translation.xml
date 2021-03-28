@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="get Original Filename" />
       <item value="Logstash stopped processing because of an error: (SystemExit) exit" />
       <item value="jmeter: no bottle available!" />
       <item value="Please wait for it to finish or terminate it to continue." />
@@ -52,12 +53,11 @@
       <item value=": Acquired Connection" />
       <item value="Resuming suspended transaction after completion of inner transaction" />
       <item value="Suspending current transaction, creating new transaction with name" />
-      <item value="Create a new transaction, and suspend the current transaction if one exists" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616507653236" />
+    <option name="lastTrimTime" value="1616940275256" />
   </component>
 </application>
