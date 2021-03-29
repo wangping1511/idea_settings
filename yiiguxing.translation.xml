@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="root" />
+      <item value="appender" />
       <item value="Applies the Ruby Awesome Print library to Logstash events" />
       <item value="&#9;&#10;Absolute path to the file or files that Filebeat processes.&#10;" />
       <item value="using JAVA_HOME while Logstash distribution comes with a bundled JDK" />
@@ -51,13 +53,11 @@
       <item value="nested" />
       <item value=": Creating nested transaction with name" />
       <item value="Existing transaction found for transaction marked with propagation 'never'" />
-      <item value="Execute within a nested transaction if a current transaction exists, behave like REQUIRED otherwise. There is no analogous feature in EJB.&#10;" />
-      <item value="Execute non-transactionally, throw an exception if a transaction exists. Analogous to EJB transaction attribute of the same name." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
