@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="no applicable action for [maxFileSize]" />
       <item value="root" />
       <item value="appender" />
       <item value="Applies the Ruby Awesome Print library to Logstash events" />
@@ -52,12 +53,11 @@
       <item value="Releasing transaction savepoint" />
       <item value="nested" />
       <item value=": Creating nested transaction with name" />
-      <item value="Existing transaction found for transaction marked with propagation 'never'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
