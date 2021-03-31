@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Simple Granted Authority" />
+      <item value="Configure the ClientDetailsService, e.g. declaring individual clients and their properties. Note that password grant is not enabled (even if some clients are allowed it) unless an AuthenticationManager is supplied to the configure(AuthorizationServerEndpointsConfigurer). At least one client, or a fully formed custom ClientDetailsService must be declared or the server will not start.&#10;Params:&#10;clients – the client details configurer" />
+      <item value="Client Details Service Configurer" />
       <item value="set Select Client Details Sql" />
       <item value="Configure the security of the Authorization Server, which means in practical terms the /oauth/token endpoint. The /oauth/authorize endpoint also needs to be secure, but that is a normal user-facing endpoint and should be secured the same way as the rest of your UI, so is not covered here. The default settings cover the most common requirements, following recommendations from the OAuth2 spec, so you don't need to do anything here to get a basic server up and running." />
       <item value="provided" />
@@ -50,14 +53,11 @@
       <item value="kong t" />
       <item value="kong tao" />
       <item value="kong tiao" />
-      <item value="空t" />
-      <item value="空tiao" />
-      <item value="increase Storage Coin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="142" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
