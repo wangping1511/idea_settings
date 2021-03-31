@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="前端" />
+      <item value="upms" />
+      <item value="up" />
+      <item value="visual&#10;" />
       <item value="No URLs will be polled as dynamic configuration sources." />
       <item value="Oauth 2 Server Config" />
       <item value="Authorization Server Configurer Adapter" />
@@ -49,10 +53,6 @@
       <item value=" [emerg] PEM_read_bio_X509_AUX(&quot;/etc/ssl/generated-csr.txt&quot;) failed (SSL: error:0906D06C:PEM routines:PEM_read_bio:no start line:Expecting: TRUSTED CERTIFICATE)" />
       <item value="单位分红" />
       <item value="单位" />
-      <item value="分红" />
-      <item value="assert" />
-      <item value="白皮书&#10;" />
-      <item value="bai pi s" />
     </histories>
     <option name="languageScores">
       <map>
