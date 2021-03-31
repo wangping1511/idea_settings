@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Configure the security of the Authorization Server, which means in practical terms the /oauth/token endpoint. The /oauth/authorize endpoint also needs to be secure, but that is a normal user-facing endpoint and should be secured the same way as the rest of your UI, so is not covered here. The default settings cover the most common requirements, following recommendations from the OAuth2 spec, so you don't need to do anything here to get a basic server up and running." />
       <item value="provided" />
       <item value="Authorization Manager" />
       <item value="前端" />
@@ -52,7 +53,6 @@
       <item value="空tiao" />
       <item value="increase Storage Coin" />
       <item value="PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: CERTIFICATE REQUEST" />
-      <item value=" [emerg] PEM_read_bio_X509_AUX(&quot;/etc/ssl/generated-csr.txt&quot;) failed (SSL: error:0906D06C:PEM routines:PEM_read_bio:no start line:Expecting: TRUSTED CERTIFICATE)" />
     </histories>
     <option name="languageScores">
       <map>
