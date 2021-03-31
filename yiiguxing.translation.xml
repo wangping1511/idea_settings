@@ -3,9 +3,19 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Abstract Jdbc Data Source Provider" />
+      <item value="secret" />
+      <item value="allow Form Authentication For Clients" />
+      <item value="Configure the security of the Authorization Server, which means in practical terms the /oauth/token endpoint. The /oauth/authorize endpoint also needs to be secure, but that is a normal user-facing endpoint and should be secured the same way as the rest of your UI, so is not covered here. The default settings cover the most common requirements, following recommendations from the OAuth2 spec, so you don't need to do anything here to get a basic" />
+      <item value="Token Enhancer Chain" />
+      <item value="permit All" />
+      <item value="permitAll" />
+      <item value="Client Details Service Configurer" />
+      <item value="This interface represents the abstract notion of a principal, which can be used to represent any entity, such as an individual, a corporation, and a login id." />
+      <item value="This interface represents the abstract notion of a principal, which can be used to represent any entity, such as an individual, a corporation, and a login id.&#10;See Also:&#10;java.security.cert.X509Certificate&#10;Author:&#10;Li Gong" />
+      <item value="Redisson Properties" />
       <item value="Simple Granted Authority" />
       <item value="Configure the ClientDetailsService, e.g. declaring individual clients and their properties. Note that password grant is not enabled (even if some clients are allowed it) unless an AuthenticationManager is supplied to the configure(AuthorizationServerEndpointsConfigurer). At least one client, or a fully formed custom ClientDetailsService must be declared or the server will not start.&#10;Params:&#10;clients – the client details configurer" />
-      <item value="Client Details Service Configurer" />
       <item value="set Select Client Details Sql" />
       <item value="Configure the security of the Authorization Server, which means in practical terms the /oauth/token endpoint. The /oauth/authorize endpoint also needs to be secure, but that is a normal user-facing endpoint and should be secured the same way as the rest of your UI, so is not covered here. The default settings cover the most common requirements, following recommendations from the OAuth2 spec, so you don't need to do anything here to get a basic server up and running." />
       <item value="provided" />
@@ -43,21 +53,12 @@
       <item value="When you make kimchi&#10;&#10;Chinese: google &quot;how to make kimchi&quot;&#10;Korean: CALL MY MOM" />
       <item value="In whole world, we called thief China. All the fake stuff all the steal stuff all the copied stuff. The only real thing is Corona. But China call thief Korea? Lmao thats funniest joke I ever heard" />
       <item value="revoke" />
-      <item value="partition" />
-      <item value="Component" />
-      <item value="Қытайдың жауыз билігіне жауыздығыңды тоқтатдейтін бір күш болама болмайма" />
-      <item value="&#10;Қытайдың жауыз билігіне жауыздығыңды тоқтатдейтін бір күш болама болмайма" />
-      <item value="&#10;qazaq byn&#10;1年前&#10;Қытайдың жауыз билігіне жауыздығыңды тоқтатдейтін бір күш болама болмайма" />
-      <item value="空投" />
-      <item value="kong tou" />
-      <item value="kong t" />
-      <item value="kong tao" />
-      <item value="kong tiao" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
+        <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
