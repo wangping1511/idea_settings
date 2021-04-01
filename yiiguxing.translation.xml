@@ -3,11 +3,16 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Token Enhancer Chain" />
+      <item value="access Token Validity Seconds" />
+      <item value="reuse Refresh Tokens" />
+      <item value="endpoints" />
+      <item value="authentication Manager Bean" />
+      <item value="Sneaky Throws" />
       <item value="Abstract Jdbc Data Source Provider" />
       <item value="secret" />
       <item value="allow Form Authentication For Clients" />
       <item value="Configure the security of the Authorization Server, which means in practical terms the /oauth/token endpoint. The /oauth/authorize endpoint also needs to be secure, but that is a normal user-facing endpoint and should be secured the same way as the rest of your UI, so is not covered here. The default settings cover the most common requirements, following recommendations from the OAuth2 spec, so you don't need to do anything here to get a basic" />
-      <item value="Token Enhancer Chain" />
       <item value="permit All" />
       <item value="permitAll" />
       <item value="Client Details Service Configurer" />
@@ -48,16 +53,11 @@
       <item value="For those who haven't read yet, in the description Liziqi has stated in English that &quot;Kimchi is traditional food from Yanbian Korean&quot;. I dont know where Yanbian is, but she didn't said that kimchi belongs to her.  She only cooked it in her own style, make a meat soup with it, which's suitable to eat during winter. Thanks." />
       <item value="China=corona" />
       <item value="하 씨발 핑핑이가 장관이랑 여튼 높은사람&#10;친중파로 채울 수 있게했대요 하ㅜㅜ" />
-      <item value="If Chinese  want to be respected by  Koreans, you also show your respect to Koreans." />
-      <item value="When you make kimchi&#10;&#10;Chinese: google &quot;how to make kimchi&quot;&#10;Korean: CALL MY MOM&#9;" />
-      <item value="When you make kimchi&#10;&#10;Chinese: google &quot;how to make kimchi&quot;&#10;Korean: CALL MY MOM" />
-      <item value="In whole world, we called thief China. All the fake stuff all the steal stuff all the copied stuff. The only real thing is Corona. But China call thief Korea? Lmao thats funniest joke I ever heard" />
-      <item value="revoke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
