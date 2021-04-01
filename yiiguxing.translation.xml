@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="is Enabled" />
+      <item value="is Credentials Non Expired" />
+      <item value="is Account Non Expired" />
+      <item value="is Account Non Locked" />
+      <item value="constants" />
+      <item value="consta" />
       <item value="left join otc_user t2 on t1.invitaion_user = t2.id" />
       <item value="Bearer" />
       <item value="ACCESS TOKEN" />
@@ -47,17 +53,11 @@
       <item value="using JAVA_HOME while Logstash distribution comes with a bundled JDK" />
       <item value="Invalid or corrupt jarfile wpy-admin.ja" />
       <item value="get Original Filename" />
-      <item value="Logstash stopped processing because of an error: (SystemExit) exit" />
-      <item value="jmeter: no bottle available!" />
-      <item value="Please wait for it to finish or terminate it to continue." />
-      <item value="To retry an incomplete download, remove the file above." />
-      <item value="requires building tools, but none are installed.&#10;Install the Command Line Tools:&#10;  xcode-select --install" />
-      <item value="SELECT command denied to user 'root'@'ip-172-31-18-120.ap-east-1.compute.internal' for table 'sys_user'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="156" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
