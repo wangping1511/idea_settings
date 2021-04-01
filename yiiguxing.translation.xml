@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="白名单" />
       <item value="is Enabled" />
       <item value="is Credentials Non Expired" />
       <item value="is Account Non Expired" />
@@ -52,7 +53,6 @@
       <item value="&#9;&#10;Absolute path to the file or files that Filebeat processes.&#10;" />
       <item value="using JAVA_HOME while Logstash distribution comes with a bundled JDK" />
       <item value="Invalid or corrupt jarfile wpy-admin.ja" />
-      <item value="get Original Filename" />
     </histories>
     <option name="languageScores">
       <map>
