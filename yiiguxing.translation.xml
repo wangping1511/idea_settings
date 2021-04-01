@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="deployed" />
       <item value="For Export" />
       <item value="select List For Export" />
       <item value="select List From Export" />
@@ -52,7 +53,6 @@
       <item value="post Access Token" />
       <item value="token Endpoint" />
       <item value="no applicable action for [maxFileSize]" />
-      <item value="root" />
     </histories>
     <option name="languageScores">
       <map>
