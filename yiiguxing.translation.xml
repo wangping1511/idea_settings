@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Proxy error: Could not proxy request /session from localhost:8081 to http://localhost:8080/ssmj6xd0/.&#10;See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).&#10;" />
       <item value="白名单" />
       <item value="is Enabled" />
       <item value="is Credentials Non Expired" />
@@ -52,7 +53,6 @@
       <item value="Applies the Ruby Awesome Print library to Logstash events" />
       <item value="&#9;&#10;Absolute path to the file or files that Filebeat processes.&#10;" />
       <item value="using JAVA_HOME while Logstash distribution comes with a bundled JDK" />
-      <item value="Invalid or corrupt jarfile wpy-admin.ja" />
     </histories>
     <option name="languageScores">
       <map>
