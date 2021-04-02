@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Module ssmj6xd0: invalid item 'Maven: com.alibaba:jconsole:1.8.0' in the dependencies list&#10;Module ssmj6xd0: invalid item 'Maven: com.alibaba:tools:1.8.0' in the dependencies list" />
       <item value=" No Spring WebApplicationInitializer types detected on classpath" />
       <item value="No Spring WebApplicationInitializer types detected on classpath" />
       <item value="with Credentials" />
@@ -52,7 +53,6 @@
       <item value="up" />
       <item value="visual&#10;" />
       <item value="No URLs will be polled as dynamic configuration sources." />
-      <item value="Oauth 2 Server Config" />
     </histories>
     <option name="languageScores">
       <map>
