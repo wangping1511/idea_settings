@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="set Controller Mapping Hyphen Style" />
+      <item value="underline to camel" />
       <item value="Auth User DTO" />
       <item value="controller" />
       <item value="processor" />
@@ -51,13 +53,11 @@
       <item value="set Select Client Details Sql" />
       <item value="Configure the security of the Authorization Server, which means in practical terms the /oauth/token endpoint. The /oauth/authorize endpoint also needs to be secure, but that is a normal user-facing endpoint and should be secured the same way as the rest of your UI, so is not covered here. The default settings cover the most common requirements, following recommendations from the OAuth2 spec, so you don't need to do anything here to get a basic server up and running." />
       <item value="provided" />
-      <item value="Authorization Manager" />
-      <item value="前端" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="173" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
