@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="权限代码" />
+      <item value="权限" />
+      <item value="permission" />
+      <item value="sys_permission" />
+      <item value="组件" />
       <item value="描述" />
       <item value="更新人" />
       <item value="创建者" />
@@ -48,11 +53,6 @@
       <item value="left join otc_user t2 on t1.invitaion_user = t2.id" />
       <item value="Bearer" />
       <item value="ACCESS TOKEN" />
-      <item value="OAUTH 2_TYPE" />
-      <item value="BEARER TYPE" />
-      <item value="Token Enhancer Chain" />
-      <item value="access Token Validity Seconds" />
-      <item value="reuse Refresh Tokens" />
     </histories>
     <option name="languageScores">
       <map>
