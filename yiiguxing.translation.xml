@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="代码生成器" />
       <item value="全局" />
       <item value="异常" />
       <item value="excption" />
@@ -52,7 +53,6 @@
       <item value="secret" />
       <item value="allow Form Authentication For Clients" />
       <item value="Configure the security of the Authorization Server, which means in practical terms the /oauth/token endpoint. The /oauth/authorize endpoint also needs to be secure, but that is a normal user-facing endpoint and should be secured the same way as the rest of your UI, so is not covered here. The default settings cover the most common requirements, following recommendations from the OAuth2 spec, so you don't need to do anything here to get a basic" />
-      <item value="permit All" />
     </histories>
     <option name="languageScores">
       <map>
