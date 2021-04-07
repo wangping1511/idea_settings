@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="bcrypt" />
       <item value="server" />
       <item value="服务" />
       <item value="权限代码" />
@@ -52,7 +53,6 @@
       <item value="is Account Non Locked" />
       <item value="constants" />
       <item value="consta" />
-      <item value="left join otc_user t2 on t1.invitaion_user = t2.id" />
     </histories>
     <option name="languageScores">
       <map>
