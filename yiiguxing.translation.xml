@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Associate .rb and .rbw files with Ruby installation" />
       <item value="bcrypt" />
       <item value="server" />
       <item value="服务" />
@@ -52,7 +53,6 @@
       <item value="is Account Non Expired" />
       <item value="is Account Non Locked" />
       <item value="constants" />
-      <item value="consta" />
     </histories>
     <option name="languageScores">
       <map>
