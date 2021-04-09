@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Global Filter" />
+      <item value="is Authenticated" />
       <item value="mutate" />
       <item value="Sources White List Config" />
       <item value="whitelist" />
@@ -51,13 +53,11 @@
       <item value="java.io.IOException: Stream closed" />
       <item value="deployed" />
       <item value="For Export" />
-      <item value="select List For Export" />
-      <item value="select List From Export" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
