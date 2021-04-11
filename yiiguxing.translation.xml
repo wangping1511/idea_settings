@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
       <item value="&#9;Indexing completed in 4 min, 27 sec. Shared indexes were applied to 74,075 of 134,077 files (55%)" />
       <item value="access Token Validity Seconds" />
       <item value="authorize Requests" />
@@ -52,12 +53,11 @@
       <item value="exc" />
       <item value="The Void class is an uninstantiable placeholder class to hold a reference to the Class object representing the Java keyword void." />
       <item value="失败&#10;" />
-      <item value="'@lombok.Setter' is only supported on a class or field type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="CHINESE" value="191" />
+        <entry key="ENGLISH" value="192" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
