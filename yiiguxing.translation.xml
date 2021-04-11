@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="enabled" />
       <item value="authority Prefix" />
       <item value="set Authorities Claim Name" />
       <item value="set Authority Prefix" />
@@ -52,12 +53,11 @@
       <item value="underline to camel" />
       <item value="Auth User DTO" />
       <item value="controller" />
-      <item value="processor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617676077784" />
+    <option name="lastTrimTime" value="1618119987627" />
   </component>
 </application>
