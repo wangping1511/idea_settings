@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Authorization Server Security Configurer" />
+      <item value="allow Form Authentication For Clients" />
+      <item value="endpoints" />
       <item value="authentication Entry Point" />
       <item value="check Token Access" />
       <item value="token Key Access" />
@@ -50,14 +53,11 @@
       <item value="nickname" />
       <item value="nickname&#10;" />
       <item value="代码生成器" />
-      <item value="全局" />
-      <item value="异常" />
-      <item value="excption" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="199" />
+        <entry key="ENGLISH" value="200" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
