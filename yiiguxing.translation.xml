@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Client Credentials Token Endpoint Filter" />
       <item value="Authorization Server Security Configurer" />
       <item value="allow Form Authentication For Clients" />
       <item value="endpoints" />
@@ -52,12 +53,11 @@
       <item value="创建了" />
       <item value="nickname" />
       <item value="nickname&#10;" />
-      <item value="代码生成器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="200" />
+        <entry key="ENGLISH" value="201" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
