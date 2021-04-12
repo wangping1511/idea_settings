@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Could not obtain the keys" />
+      <item value="500 Server Error for HTTP GET &quot;koala-adminsys-user?username=admin&quot;" />
+      <item value="UNAUTHENTICATED" />
+      <item value="UNAUTHORIZED" />
       <item value="Consider defining a bean of type 'org.springframework.data.redis.connection.lettuce.LettuceConnectionFactory' in your configuration." />
       <item value="The injection point has the following annotations: - @org.springframework.beans.factory.annotation.Autowired(required=true)" />
       <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
@@ -49,15 +53,11 @@
       <item value="权限" />
       <item value="permission" />
       <item value="sys_permission" />
-      <item value="组件" />
-      <item value="描述" />
-      <item value="更新人" />
-      <item value="创建者" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="205" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="211" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
