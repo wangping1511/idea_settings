@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="The injection point has the following annotations: - @org.springframework.beans.factory.annotation.Autowired(required=true)" />
+      <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
+      <item value="could not be registered. A" />
       <item value="Client Credentials Token Endpoint Filter" />
       <item value="Authorization Server Security Configurer" />
       <item value="allow Form Authentication For Clients" />
@@ -50,14 +53,11 @@
       <item value="更新人" />
       <item value="创建者" />
       <item value="创建zhe" />
-      <item value="创建了" />
-      <item value="nickname" />
-      <item value="nickname&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
