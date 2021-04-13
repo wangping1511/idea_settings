@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="authenticated" />
+      <item value="authorize Exchange" />
+      <item value="any Exchange" />
       <item value="is Multi Instance:false" />
       <item value="Could not obtain the keys at org.springframework.security.oauth2.jwt.NimbusReactiveJwtDecoderJwkSetUriReactiveJwtDecoderBuilder.lambdanull1(NimbusReactiveJwtDecoder.java:345) ~[spring-security-oauth2-jose-5.3.6.RELEASE.jar:5.3.6.RELEASE] Suppressed: reactor.core.publisher.FluxOnAssemblyOnAssemblyException:" />
       <item value="Swagger Header Filter" />
@@ -50,14 +53,11 @@
       <item value="Sources White List Config" />
       <item value="whitelist" />
       <item value="白名单" />
-      <item value="Application context not configured for this file " />
-      <item value="Cascader VO" />
-      <item value=": Unable to read meta-data for" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="224" />
+        <entry key="ENGLISH" value="225" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
