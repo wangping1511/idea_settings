@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Ignore the empty nacos configuration and get it based on dataId[koala-auth] &amp; group[DEFAULT_GROUP]" />
+      <item value="Causes `RibbonLoadBalancerClient` to be used by default." />
+      <item value="All Spring Cloud Security modules and starters are deprecated. They will be moved to individual projects in the next major release." />
       <item value="No Feign Client for loadBalancing defined. Did you forget to include spring-cloud-starter-netflix-ribbon?" />
       <item value="Ignore the empty nacos configuration and get it based on dataId[koala-gateway] &amp; group[DEFAULT_GROUP]" />
       <item value="out of date data received, old-t: 1618490884621, new-t: 1618490884620" />
@@ -42,7 +45,6 @@
       <item value="check Token Access" />
       <item value="token Key Access" />
       <item value="No URLs will be polled as dynamic configuration sources." />
-      <item value="All Spring Cloud Security modules and starters are deprecated. They will be moved to individual projects in the next major release." />
       <item value="If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
       <item value="&#9;Indexing completed in 4 min, 27 sec. Shared indexes were applied to 74,075 of 134,077 files (55%)" />
       <item value="access Token Validity Seconds" />
@@ -51,13 +53,11 @@
       <item value="mono" />
       <item value="enabled" />
       <item value="authority Prefix" />
-      <item value="set Authorities Claim Name" />
-      <item value="set Authority Prefix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="236" />
+        <entry key="CHINESE" value="238" />
+        <entry key="ENGLISH" value="239" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
