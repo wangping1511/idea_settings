@@ -3,9 +3,14 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Cannot resolve controller URL '' " />
+      <item value="平台" />
+      <item value="重定向" />
+      <item value="第三方认证" />
+      <item value="third-party certification" />
+      <item value="di" />
       <item value="第三方登录" />
       <item value="第三方deng" />
-      <item value="平台" />
       <item value="Principal" />
       <item value="pre Established Redirect Uri" />
       <item value="user Authorization Uri" />
@@ -48,11 +53,6 @@
       <item value="Client Credentials Token Endpoint Filter" />
       <item value="Authorization Server Security Configurer" />
       <item value="allow Form Authentication For Clients" />
-      <item value="endpoints" />
-      <item value="authentication Entry Point" />
-      <item value="check Token Access" />
-      <item value="token Key Access" />
-      <item value="No URLs will be polled as dynamic configuration sources." />
     </histories>
     <option name="languageScores">
       <map>
