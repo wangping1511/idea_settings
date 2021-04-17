@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="pre Established Redirect Uri" />
+      <item value="user Authorization Uri" />
+      <item value="The redirect URI that has been pre-established with the server." />
+      <item value="preEstablishedRedirectUri" />
       <item value="Ignore the empty nacos configuration and get it based on dataId[koala-auth] &amp; group[DEFAULT_GROUP]" />
       <item value="Causes `RibbonLoadBalancerClient` to be used by default." />
       <item value="All Spring Cloud Security modules and starters are deprecated. They will be moved to individual projects in the next major release." />
@@ -49,10 +53,6 @@
       <item value="&#9;Indexing completed in 4 min, 27 sec. Shared indexes were applied to 74,075 of 134,077 files (55%)" />
       <item value="access Token Validity Seconds" />
       <item value="authorize Requests" />
-      <item value="Sneaky Throws" />
-      <item value="mono" />
-      <item value="enabled" />
-      <item value="authority Prefix" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618119987627" />
+    <option name="lastTrimTime" value="1618674548653" />
   </component>
 </application>
