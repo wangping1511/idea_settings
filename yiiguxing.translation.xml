@@ -3,6 +3,15 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Indicates the dependency is optional for use of this library. While the version of the dependency will be taken into account for dependency calculation if the library is used elsewhere, it will not be passed on transitively." />
+      <item value="omitted for duplicate" />
+      <item value="omitted for dupli" />
+      <item value="omitted for dup" />
+      <item value="omitted for de" />
+      <item value="omitted for " />
+      <item value="omitted" />
+      <item value="omit" />
+      <item value="o m" />
       <item value="No Such Method Error" />
       <item value="NoSuchMethodError: okhttp3.RequestBody.create" />
       <item value="do Post Authorization Code" />
@@ -44,15 +53,6 @@
       <item value="is Multi Instance:false" />
       <item value="Could not obtain the keys at org.springframework.security.oauth2.jwt.NimbusReactiveJwtDecoderJwkSetUriReactiveJwtDecoderBuilder.lambdanull1(NimbusReactiveJwtDecoder.java:345) ~[spring-security-oauth2-jose-5.3.6.RELEASE.jar:5.3.6.RELEASE] Suppressed: reactor.core.publisher.FluxOnAssemblyOnAssemblyException:" />
       <item value="Swagger Header Filter" />
-      <item value="checkpoint ⇢ 400 from GET http:localhost:8001getPublicKey [DefaultWebClient]" />
-      <item value="Error has been observed at the following site(s):" />
-      <item value="Could not obtain the keys" />
-      <item value="400 Bad Request from GET" />
-      <item value=": Could not obtain the keys" />
-      <item value="has been observed at the following site(s):" />
-      <item value="Invalid JWS header: Invalid JSON: Unexpected token" />
-      <item value="500 Server Error for HTTP GET &quot;koala-adminsys-user?username=admin&quot;" />
-      <item value="UNAUTHENTICATED" />
     </histories>
     <option name="languageScores">
       <map>
