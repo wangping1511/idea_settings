@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Raw use of parameterized class 'AuthResponse' " />
+      <item value="Failed to login with oauth authorization." />
+      <item value="okhttp 3.Request Body.create(Ljavalang String;Lokhttp 3 Media Type;)Lokhttp 3 Request Body" />
+      <item value="render" />
       <item value="Cannot resolve controller URL '' " />
       <item value="平台" />
       <item value="重定向" />
@@ -49,10 +53,6 @@
       <item value="Consider defining a bean of type 'org.springframework.data.redis.connection.lettuce.LettuceConnectionFactory' in your configuration." />
       <item value="The injection point has the following annotations: - @org.springframework.beans.factory.annotation.Autowired(required=true)" />
       <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
-      <item value="could not be registered. A" />
-      <item value="Client Credentials Token Endpoint Filter" />
-      <item value="Authorization Server Security Configurer" />
-      <item value="allow Form Authentication For Clients" />
     </histories>
     <option name="languageScores">
       <map>
