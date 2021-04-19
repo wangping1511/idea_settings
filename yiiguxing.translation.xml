@@ -3,6 +3,29 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="schemas" />
+      <item value="Docket" />
+      <item value="default If Empty" />
+      <item value="权限代码" />
+      <item value="权限" />
+      <item value="q" />
+      <item value="permission" />
+      <item value="permissi" />
+      <item value="perm" />
+      <item value="p" />
+      <item value="显示" />
+      <item value="visible" />
+      <item value="front" />
+      <item value="f" />
+      <item value="可视化" />
+      <item value="可视化&#10;" />
+      <item value="前" />
+      <item value="qian" />
+      <item value="quan" />
+      <item value="back" />
+      <item value="end" />
+      <item value="fon" />
+      <item value="前端" />
       <item value="terms Of Service Url" />
       <item value="examples" />
       <item value="allowable Values" />
@@ -30,29 +53,6 @@
       <item value="o m" />
       <item value="No Such Method Error" />
       <item value="NoSuchMethodError: okhttp3.RequestBody.create" />
-      <item value="do Post Authorization Code" />
-      <item value="Handler dispatch failed" />
-      <item value="Raw use of parameterized class 'AuthResponse' " />
-      <item value="Failed to login with oauth authorization." />
-      <item value="okhttp 3.Request Body.create(Ljavalang String;Lokhttp 3 Media Type;)Lokhttp 3 Request Body" />
-      <item value="render" />
-      <item value="Cannot resolve controller URL '' " />
-      <item value="平台" />
-      <item value="重定向" />
-      <item value="第三方认证" />
-      <item value="third-party certification" />
-      <item value="di" />
-      <item value="第三方登录" />
-      <item value="第三方deng" />
-      <item value="Principal" />
-      <item value="pre Established Redirect Uri" />
-      <item value="user Authorization Uri" />
-      <item value="The redirect URI that has been pre-established with the server." />
-      <item value="preEstablishedRedirectUri" />
-      <item value="Ignore the empty nacos configuration and get it based on dataId[koala-auth] &amp; group[DEFAULT_GROUP]" />
-      <item value="Causes `RibbonLoadBalancerClient` to be used by default." />
-      <item value="All Spring Cloud Security modules and starters are deprecated. They will be moved to individual projects in the next major release." />
-      <item value="No Feign Client for loadBalancing defined. Did you forget to include spring-cloud-starter-netflix-ribbon?" />
     </histories>
     <option name="languageScores">
       <map>
