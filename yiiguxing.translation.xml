@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="'@Hidden' not applicable to parameter" />
+      <item value="summary" />
       <item value="A brief description of the parameter." />
       <item value="Describes the default value for the parameter" />
       <item value="Could not obtain the keys" />
@@ -51,8 +53,6 @@
       <item value="out of date data received, old-t: 1618490884621, new-t: 1618490884620" />
       <item value="Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it to the classpath." />
       <item value="Load balancer does not have available server for client: koala-admin" />
-      <item value="Missing part delimiters" />
-      <item value="Invalid serialized unsecuredJWSJWE object: Missing part delimiters" />
     </histories>
     <option name="languageScores">
       <map>
