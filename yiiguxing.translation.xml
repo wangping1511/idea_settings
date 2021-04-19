@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="terms Of Service Url" />
+      <item value="examples" />
+      <item value="allowable Values" />
       <item value="Unable to render this definition&#10;The provided definition does not specify a valid version field.&#10;&#10;Please indicate a valid Swagger or OpenAPI version field. Supported version fields are swagger: &quot;2.0&quot; and those that match openapi: 3.0.n (for example, openapi: 3.0.0)." />
       <item value="'@Hidden' not applicable to parameter" />
       <item value="summary" />
@@ -50,9 +53,6 @@
       <item value="Causes `RibbonLoadBalancerClient` to be used by default." />
       <item value="All Spring Cloud Security modules and starters are deprecated. They will be moved to individual projects in the next major release." />
       <item value="No Feign Client for loadBalancing defined. Did you forget to include spring-cloud-starter-netflix-ribbon?" />
-      <item value="Ignore the empty nacos configuration and get it based on dataId[koala-gateway] &amp; group[DEFAULT_GROUP]" />
-      <item value="out of date data received, old-t: 1618490884621, new-t: 1618490884620" />
-      <item value="Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it to the classpath." />
     </histories>
     <option name="languageScores">
       <map>
