@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="jwt Authentication Converter" />
       <item value="scope Separator" />
       <item value="additional Query String Params" />
       <item value="BEARER TYPE" />
@@ -52,7 +53,6 @@
       <item value="omitted for de" />
       <item value="omitted for " />
       <item value="omitted" />
-      <item value="omit" />
     </histories>
     <option name="languageScores">
       <map>
