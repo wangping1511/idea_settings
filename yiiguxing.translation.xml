@@ -3,6 +3,20 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="authenticate" />
+      <item value="authenticated" />
+      <item value="authenticatedList" />
+      <item value="需认证的" />
+      <item value="需认证" />
+      <item value="x" />
+      <item value="xu" />
+      <item value="Authorization" />
+      <item value="认证" />
+      <item value="认证的" />
+      <item value="白名单" />
+      <item value="bai" />
+      <item value="exchange" />
+      <item value="url" />
       <item value="jwt Authentication Converter" />
       <item value="scope Separator" />
       <item value="additional Query String Params" />
@@ -39,20 +53,6 @@
       <item value="A brief description of the parameter." />
       <item value="Describes the default value for the parameter" />
       <item value="Could not obtain the keys" />
-      <item value="Deprecated" />
-      <item value="Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource." />
-      <item value=" been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource." />
-      <item value="ApiImplicitParams" />
-      <item value="Api Implicit Params" />
-      <item value="No servers available for service: koala-admin" />
-      <item value="Request Handler Selectors" />
-      <item value="Indicates the dependency is optional for use of this library. While the version of the dependency will be taken into account for dependency calculation if the library is used elsewhere, it will not be passed on transitively." />
-      <item value="omitted for duplicate" />
-      <item value="omitted for dupli" />
-      <item value="omitted for dup" />
-      <item value="omitted for de" />
-      <item value="omitted for " />
-      <item value="omitted" />
     </histories>
     <option name="languageScores">
       <map>
