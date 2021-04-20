@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="scope Separator" />
+      <item value="additional Query String Params" />
       <item value="BEARER TYPE" />
       <item value="schemas" />
       <item value="Docket" />
@@ -51,8 +53,6 @@
       <item value="omitted for " />
       <item value="omitted" />
       <item value="omit" />
-      <item value="o m" />
-      <item value="No Such Method Error" />
     </histories>
     <option name="languageScores">
       <map>
