@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="禁用" />
+      <item value="启用" />
+      <item value="Enable Enum" />
+      <item value="q" />
       <item value="This authorization method will be used for every request in this collection. You can override this by specifying one in the request." />
       <item value="Invalid serialized unsecuredJWSJWE object: Missing part delimiters" />
       <item value="Reactive Authorization Manager" />
@@ -30,7 +34,6 @@
       <item value="default If Empty" />
       <item value="权限代码" />
       <item value="权限" />
-      <item value="q" />
       <item value="permission" />
       <item value="permissi" />
       <item value="perm" />
@@ -50,9 +53,6 @@
       <item value="前端" />
       <item value="terms Of Service Url" />
       <item value="examples" />
-      <item value="allowable Values" />
-      <item value="Unable to render this definition&#10;The provided definition does not specify a valid version field.&#10;&#10;Please indicate a valid Swagger or OpenAPI version field. Supported version fields are swagger: &quot;2.0&quot; and those that match openapi: 3.0.n (for example, openapi: 3.0.0)." />
-      <item value="'@Hidden' not applicable to parameter" />
     </histories>
     <option name="languageScores">
       <map>
