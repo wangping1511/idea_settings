@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Invalid serialized unsecuredJWSJWE object: Missing part delimiters" />
+      <item value="Reactive Authorization Manager" />
       <item value="Authentication" />
       <item value="authenticate" />
       <item value="authenticated" />
@@ -51,8 +53,6 @@
       <item value="Unable to render this definition&#10;The provided definition does not specify a valid version field.&#10;&#10;Please indicate a valid Swagger or OpenAPI version field. Supported version fields are swagger: &quot;2.0&quot; and those that match openapi: 3.0.n (for example, openapi: 3.0.0)." />
       <item value="'@Hidden' not applicable to parameter" />
       <item value="summary" />
-      <item value="A brief description of the parameter." />
-      <item value="Describes the default value for the parameter" />
     </histories>
     <option name="languageScores">
       <map>
