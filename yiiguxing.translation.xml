@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="children" />
+      <item value="孩子" />
+      <item value="ha" />
+      <item value="permission" />
       <item value="禁用" />
       <item value="启用" />
       <item value="Enable Enum" />
@@ -34,7 +38,6 @@
       <item value="default If Empty" />
       <item value="权限代码" />
       <item value="权限" />
-      <item value="permission" />
       <item value="permissi" />
       <item value="perm" />
       <item value="p" />
@@ -50,9 +53,6 @@
       <item value="back" />
       <item value="end" />
       <item value="fon" />
-      <item value="前端" />
-      <item value="terms Of Service Url" />
-      <item value="examples" />
     </histories>
     <option name="languageScores">
       <map>
