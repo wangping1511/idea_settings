@@ -3,56 +3,56 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
-      <item value="argument type mismatch" />
-      <item value="Patch Mapping" />
-      <item value="of Nullable" />
-      <item value="if Present" />
-      <item value="递归" />
-      <item value="children" />
-      <item value="孩子" />
-      <item value="ha" />
-      <item value="permission" />
-      <item value="禁用" />
-      <item value="启用" />
-      <item value="Enable Enum" />
-      <item value="q" />
-      <item value="This authorization method will be used for every request in this collection. You can override this by specifying one in the request." />
-      <item value="Invalid serialized unsecuredJWSJWE object: Missing part delimiters" />
-      <item value="Reactive Authorization Manager" />
-      <item value="Authentication" />
-      <item value="authenticate" />
-      <item value="authenticated" />
-      <item value="authenticatedList" />
-      <item value="需认证的" />
-      <item value="需认证" />
-      <item value="x" />
-      <item value="xu" />
-      <item value="Authorization" />
-      <item value="认证" />
-      <item value="认证的" />
-      <item value="白名单" />
-      <item value="bai" />
-      <item value="exchange" />
-      <item value="url" />
-      <item value="jwt Authentication Converter" />
-      <item value="scope Separator" />
-      <item value="additional Query String Params" />
-      <item value="BEARER TYPE" />
-      <item value="schemas" />
-      <item value="Docket" />
-      <item value="default If Empty" />
-      <item value="权限代码" />
-      <item value="权限" />
-      <item value="permissi" />
-      <item value="perm" />
-      <item value="p" />
-      <item value="显示" />
-      <item value="visible" />
-      <item value="front" />
-      <item value="f" />
-      <item value="可视化" />
-      <item value="可视化&#10;" />
-      <item value="前" />
+      <item value="durable" />
+      <item value="volatile" />
+      <item value="vola" />
+      <item value="vol" />
+      <item value="voli" />
+      <item value="interrupt" />
+      <item value="wildcardQuery" />
+      <item value="fuzzyQuery" />
+      <item value="prefix" />
+      <item value="pre" />
+      <item value="fix" />
+      <item value="prefixc" />
+      <item value="exists" />
+      <item value="ex" />
+      <item value="exist" />
+      <item value="exi" />
+      <item value="e" />
+      <item value="exit" />
+      <item value="bulk" />
+      <item value="union all" />
+      <item value="union a" />
+      <item value="union" />
+      <item value="uno" />
+      <item value="exits" />
+      <item value="bulk Index" />
+      <item value="weight Factor Function" />
+      <item value="match All Query" />
+      <item value="commited" />
+      <item value="commit" />
+      <item value="commo" />
+      <item value="commite" />
+      <item value="Thymeleaf" />
+      <item value="expires_in" />
+      <item value="access Token Validity Seconds" />
+      <item value="HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h52m20s575ms)." />
+      <item value="BeanFactory" />
+      <item value="qualifier" />
+      <item value="piped" />
+      <item value="writer" />
+      <item value="白色" />
+      <item value="with" />
+      <item value="wr" />
+      <item value="weiter" />
+      <item value="concurrent" />
+      <item value="concur r" />
+      <item value="con c r" />
+      <item value="con c" />
+      <item value="con" />
+      <item value="transient" />
+      <item value="origin" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618674548653" />
+    <option name="lastTrimTime" value="1619186866462" />
   </component>
 </application>
