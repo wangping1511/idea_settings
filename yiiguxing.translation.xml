@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="不能为" />
+      <item value="bu" />
+      <item value="            PageHelper.startPage(RequestUtils.getPageNum(), RequestUtils.getPageSize());&#10;" />
+      <item value="不能为空" />
+      <item value="Illegal Argument Exception" />
       <item value="durable" />
       <item value="volatile" />
       <item value="vola" />
@@ -48,11 +53,6 @@
       <item value="weiter" />
       <item value="concurrent" />
       <item value="concur r" />
-      <item value="con c r" />
-      <item value="con c" />
-      <item value="con" />
-      <item value="transient" />
-      <item value="origin" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619186866462" />
+    <option name="lastTrimTime" value="1619937642003" />
   </component>
 </application>
