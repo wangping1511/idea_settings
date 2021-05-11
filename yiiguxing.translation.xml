@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="牛" />
+      <item value="personal" />
+      <item value="个人" />
+      <item value="Person" />
+      <item value="个人工作室" />
+      <item value="g" />
+      <item value="gere" />
+      <item value="学习" />
       <item value="expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
       <item value="No qualifying bean of type" />
       <item value="expected at least 1 bean which qualifies as autowire candidate" />
@@ -45,19 +53,11 @@
       <item value="weight Factor Function" />
       <item value="match All Query" />
       <item value="commited" />
-      <item value="commit" />
-      <item value="commo" />
-      <item value="commite" />
-      <item value="Thymeleaf" />
-      <item value="expires_in" />
-      <item value="access Token Validity Seconds" />
-      <item value="HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h52m20s575ms)." />
-      <item value="BeanFactory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="260" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619937642003" />
+    <option name="lastTrimTime" value="1620735642676" />
   </component>
 </application>
