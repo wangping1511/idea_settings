@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Thread Pool Task Scheduler" />
       <item value="asks" />
       <item value="bids" />
       <item value="Load error: undefined path variables&#10;&#9;&#9;&#9;&#9;&#9;Gson is undefined.&#10;&#9;&#9;&#9;&#9;&#9;Path variables are used to substitute absolute paths in project files and allow sharing project files through version control systems.&#10;&#9;&#9;&#9;&#9;&#9;Some of the files with the current project settings contain unknown path variables and IDEA cannot restore these paths." />
@@ -52,12 +53,11 @@
       <item value="union" />
       <item value="uno" />
       <item value="exits" />
-      <item value="bulk Index" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="268" />
-        <entry key="ENGLISH" value="265" />
+        <entry key="ENGLISH" value="266" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
