@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Your session ended because of an error. If this keeps happening, contact your network administrator for assistance.&#10;&#10;" />
       <item value="Job for mysqld.service failed because the control process exited with error code. See &quot;systemctl status mysqld.service&quot; and &quot;journalctl -xe&quot; for details." />
       <item value=" WebSocketClient objects are not reuseable" />
       <item value="NOT YET CONNECTED" />
@@ -52,11 +53,10 @@
       <item value="fix" />
       <item value="prefixc" />
       <item value="exists" />
-      <item value="ex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="279" />
+        <entry key="CHINESE" value="280" />
         <entry key="ENGLISH" value="278" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
