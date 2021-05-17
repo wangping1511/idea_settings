@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="ROUND UNNECESSARY" />
+      <item value="'BigDecimal.setScale()' called without a rounding mode argument " />
       <item value="Minimum required Erlang/OTP·" />
       <item value="Minimum required Erlang/OTP" />
       <item value="cluster-require-full-coverage" />
@@ -51,13 +53,11 @@
       <item value="interrupt" />
       <item value="wildcardQuery" />
       <item value="fuzzyQuery" />
-      <item value="prefix" />
-      <item value="pre" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="283" />
-        <entry key="ENGLISH" value="278" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="279" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
