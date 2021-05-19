@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="计算收益" />
+      <item value="计算" />
       <item value="get User Assets" />
       <item value="ROUND UNNECESSARY" />
       <item value="'BigDecimal.setScale()' called without a rounding mode argument " />
@@ -51,13 +53,11 @@
       <item value="vola" />
       <item value="vol" />
       <item value="voli" />
-      <item value="interrupt" />
-      <item value="wildcardQuery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
-        <entry key="ENGLISH" value="280" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="286" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
