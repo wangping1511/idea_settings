@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="sing" />
+      <item value="s" />
       <item value="计算收益" />
       <item value="计算" />
       <item value="get User Assets" />
@@ -51,12 +53,10 @@
       <item value="durable" />
       <item value="volatile" />
       <item value="vola" />
-      <item value="vol" />
-      <item value="voli" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
+        <entry key="CHINESE" value="291" />
         <entry key="ENGLISH" value="286" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
