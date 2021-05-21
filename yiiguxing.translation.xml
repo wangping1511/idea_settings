@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="获得1" />
       <item value="获得" />
       <item value="分红数" />
       <item value="分润" />
@@ -52,7 +53,6 @@
       <item value="Load error: undefined path variables&#10;&#9;&#9;&#9;&#9;&#9;Gson is undefined.&#10;&#9;&#9;&#9;&#9;&#9;Path variables are used to substitute absolute paths in project files and allow sharing project files through version control systems.&#10;&#9;&#9;&#9;&#9;&#9;Some of the files with the current project settings contain unknown path variables and IDEA cannot restore these paths." />
       <item value="牛" />
       <item value="personal" />
-      <item value="个人" />
     </histories>
     <option name="languageScores">
       <map>
