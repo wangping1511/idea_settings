@@ -3,6 +3,16 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="secret" />
+      <item value="secrot" />
+      <item value="se c" />
+      <item value="sect" />
+      <item value="secor" />
+      <item value="se" />
+      <item value="s" />
+      <item value="密码" />
+      <item value="密钥" />
+      <item value="mi ya" />
       <item value="牛" />
       <item value="niu" />
       <item value="contract-admin" />
@@ -36,7 +46,6 @@
       <item value="产出" />
       <item value="出场" />
       <item value="sing" />
-      <item value="s" />
       <item value="计算收益" />
       <item value="get User Assets" />
       <item value="ROUND UNNECESSARY" />
@@ -44,20 +53,11 @@
       <item value="Minimum required Erlang/OTP·" />
       <item value="Minimum required Erlang/OTP" />
       <item value="cluster-require-full-coverage" />
-      <item value="Your session ended because of an error. If this keeps happening, contact your network administrator for assistance.&#10;&#10;" />
-      <item value="Job for mysqld.service failed because the control process exited with error code. See &quot;systemctl status mysqld.service&quot; and &quot;journalctl -xe&quot; for details." />
-      <item value=" WebSocketClient objects are not reuseable" />
-      <item value="NOT YET CONNECTED" />
-      <item value="失败" />
-      <item value=" Unable to find a match: mysql-community-server" />
-      <item value="Returns whether or not the closing of the connection was initiated by the remote host." />
-      <item value="Additional information string" />
-      <item value="connect Blocking" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="377" />
-        <entry key="ENGLISH" value="372" />
+        <entry key="CHINESE" value="399" />
+        <entry key="ENGLISH" value="393" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
