@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="any Match" />
       <item value="接入info" />
       <item value="接ru" />
       <item value="接" />
@@ -52,12 +53,11 @@
       <item value="出场" />
       <item value="sing" />
       <item value="计算收益" />
-      <item value="get User Assets" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="399" />
+        <entry key="ENGLISH" value="400" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
