@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="接入info" />
+      <item value="接ru" />
+      <item value="接" />
+      <item value="接入管理" />
+      <item value="接入" />
       <item value="secret" />
       <item value="secrot" />
       <item value="se c" />
@@ -48,16 +53,11 @@
       <item value="sing" />
       <item value="计算收益" />
       <item value="get User Assets" />
-      <item value="ROUND UNNECESSARY" />
-      <item value="'BigDecimal.setScale()' called without a rounding mode argument " />
-      <item value="Minimum required Erlang/OTP·" />
-      <item value="Minimum required Erlang/OTP" />
-      <item value="cluster-require-full-coverage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="399" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="CHINESE" value="405" />
+        <entry key="ENGLISH" value="399" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
