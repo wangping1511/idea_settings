@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="牛" />
+      <item value="niu" />
       <item value="contract-admin" />
       <item value="contract " />
       <item value="contract" />
@@ -51,13 +53,11 @@
       <item value="Returns whether or not the closing of the connection was initiated by the remote host." />
       <item value="Additional information string" />
       <item value="connect Blocking" />
-      <item value=" Error creating bean with name 'transactionManager': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)" />
-      <item value="on Open" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="372" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="CHINESE" value="377" />
+        <entry key="ENGLISH" value="372" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
