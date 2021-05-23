@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="No candidates found for method call implementation.&#10;  trident.core" />
       <item value="Erbium" />
       <item value="If you are running V2RayX for the first time, ignore this message. &#10;Sorry, unknown settings!&#10;All V2RayX settings will be reset." />
       <item value="I don't think there is a supported way to not install a dependency from the command line. However, you can configure the installed mvn to use another JDK. It requires two steps:&#10;&#10;Add /usr/local/opt/maven/libexec/bin to your $PATH before /usr/local/bin to pick up the mvn script that does not override $JAVA_HOME&#10;&#10;Set $JAVA_HOME in your environment or .mavenrc to pick up the your preferred version of Java&#10;" />
@@ -52,11 +53,10 @@
       <item value="批次" />
       <item value="get Circulation Fee" />
       <item value="does not have type parameters" />
-      <item value=" Too-big precision 16 specified for 'deposit'. Maximum is 6." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="408" />
+        <entry key="CHINESE" value="409" />
         <entry key="ENGLISH" value="400" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
