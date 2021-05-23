@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value=" The connection was closed because the other endpoint did not respond with a pong in time." />
       <item value="No candidates found for method call implementation.&#10;  trident.core" />
       <item value="Erbium" />
       <item value="If you are running V2RayX for the first time, ignore this message. &#10;Sorry, unknown settings!&#10;All V2RayX settings will be reset." />
@@ -52,11 +53,10 @@
       <item value="REPEATABLE READ" />
       <item value="批次" />
       <item value="get Circulation Fee" />
-      <item value="does not have type parameters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
+        <entry key="CHINESE" value="410" />
         <entry key="ENGLISH" value="400" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
