@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="load Wallet From Keystore" />
+      <item value="First received frame was not SETTINGS. Hex dump for first 5 bytes: 485454502f" />
       <item value="protobuf" />
       <item value=" The connection was closed because the other endpoint did not respond with a pong in time." />
       <item value="No candidates found for method call implementation.&#10;  trident.core" />
@@ -51,13 +53,11 @@
       <item value="率" />
       <item value="lü" />
       <item value="batch Num" />
-      <item value="REPEATABLE READ" />
-      <item value="批次" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="400" />
+        <entry key="ENGLISH" value="402" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
