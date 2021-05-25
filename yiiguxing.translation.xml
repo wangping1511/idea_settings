@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="CONTRACT VALIDATE ERROR" />
+      <item value="CONTRACT_VALIDATE_ERROR" />
       <item value="Account[41378eeb8495775f194881a39d4f64387c83567178] not exists" />
       <item value="trongrid" />
       <item value="组件" />
@@ -51,13 +53,11 @@
       <item value="jis" />
       <item value="separator Char" />
       <item value="获得1" />
-      <item value="获得" />
-      <item value="分红数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="447" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="CHINESE" value="449" />
+        <entry key="ENGLISH" value="431" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
