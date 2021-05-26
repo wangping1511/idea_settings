@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="crypto" />
+      <item value="cry" />
+      <item value="consensus" />
       <item value="CONTRACT VALIDATE ERROR" />
       <item value="CONTRACT_VALIDATE_ERROR" />
       <item value="Account[41378eeb8495775f194881a39d4f64387c83567178] not exists" />
@@ -50,14 +53,11 @@
       <item value="contract " />
       <item value="contract" />
       <item value="计算" />
-      <item value="jis" />
-      <item value="separator Char" />
-      <item value="获得1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="449" />
-        <entry key="ENGLISH" value="431" />
+        <entry key="CHINESE" value="451" />
+        <entry key="ENGLISH" value="432" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
