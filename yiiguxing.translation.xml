@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="seed" />
+      <item value="List of the seed nodes" />
+      <item value="voteCount" />
       <item value="crypto" />
       <item value="cry" />
       <item value="consensus" />
@@ -50,13 +53,10 @@
       <item value="牛" />
       <item value="niu" />
       <item value="contract-admin" />
-      <item value="contract " />
-      <item value="contract" />
-      <item value="计算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="451" />
+        <entry key="CHINESE" value="454" />
         <entry key="ENGLISH" value="432" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
