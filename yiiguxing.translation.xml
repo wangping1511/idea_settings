@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="CLUSTERDOWN The cluster is down" />
       <item value="BLOCK CHAIN INVENTORY" />
       <item value="BLOCK CHAIN_INVENTORY" />
       <item value="BLOCK_CHAIN_INVENTORY" />
@@ -52,11 +53,10 @@
       <item value="s" />
       <item value="密码" />
       <item value="密钥" />
-      <item value="mi ya" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="455" />
+        <entry key="CHINESE" value="456" />
         <entry key="ENGLISH" value="432" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621675619245" />
+    <option name="lastTrimTime" value="1622139126734" />
   </component>
 </application>
