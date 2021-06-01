@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="It's likely that neither a Result Type nor a Result Map was specified." />
       <item value="strip Trailing Zeros" />
       <item value="'while' statement cannot complete without throwing an exception" />
       <item value="is Cancelled" />
@@ -52,11 +53,10 @@
       <item value="I don't think there is a supported way to not install a dependency from the command line. However, you can configure the installed mvn to use another JDK. It requires two steps:&#10;&#10;Add /usr/local/opt/maven/libexec/bin to your $PATH before /usr/local/bin to pick up the mvn script that does not override $JAVA_HOME&#10;&#10;Set $JAVA_HOME in your environment or .mavenrc to pick up the your preferred version of Java&#10;————————————————&#10;版权声明：本文为CSDN博主「Gaven Wang」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。&#10;原文链接：https://blog.csdn.net/weixin_28684655/article/details/113031224" />
       <item value="any Match" />
       <item value="接入info" />
-      <item value="接ru" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="469" />
+        <entry key="CHINESE" value="470" />
         <entry key="ENGLISH" value="440" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
