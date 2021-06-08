@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value=" Cannot determine a partition for slot 8875." />
       <item value="to Epoch Second" />
       <item value="to Epoch Milli" />
       <item value="writev() failed (104: Connection reset by peer) while sending response to client" />
@@ -52,11 +53,10 @@
       <item value="First received frame was not SETTINGS. Hex dump for first 5 bytes: 485454502f" />
       <item value="protobuf" />
       <item value=" The connection was closed because the other endpoint did not respond with a pong in time." />
-      <item value="No candidates found for method call implementation.&#10;  trident.core" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="474" />
+        <entry key="CHINESE" value="475" />
         <entry key="ENGLISH" value="442" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622651076277" />
+    <option name="lastTrimTime" value="1623140042018" />
   </component>
 </application>
