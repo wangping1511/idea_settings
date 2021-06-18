@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="spongycastle" />
+      <item value="Core Protocol Buffers library. Protocol Buffers are a way of encoding structured data in an efficient yet extensible format." />
+      <item value="protobuf" />
+      <item value="The Bouncy Castle Crypto package is a Java implementation of cryptographic algorithms. This jar contains JCE provider and lightweight API for the Bouncy Castle Cryptography APIs for JDK 1.5 and up." />
       <item value="安全密码" />
       <item value="an" />
       <item value="转账失败" />
@@ -49,22 +53,18 @@
       <item value="consensus" />
       <item value="CONTRACT VALIDATE ERROR" />
       <item value="CONTRACT_VALIDATE_ERROR" />
-      <item value="Account[41378eeb8495775f194881a39d4f64387c83567178] not exists" />
-      <item value="trongrid" />
-      <item value="组件" />
-      <item value="component" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="521" />
-        <entry key="ENGLISH" value="483" />
+        <entry key="CHINESE" value="523" />
+        <entry key="ENGLISH" value="484" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="INDONESIAN" value="1" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
