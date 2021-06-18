@@ -3,6 +3,15 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="验证" />
+      <item value="yan z" />
+      <item value="阳子" />
+      <item value="校验" />
+      <item value="currency" />
+      <item value="币种" />
+      <item value="币zhong" />
+      <item value="币" />
+      <item value="币总" />
       <item value="spongycastle" />
       <item value="Core Protocol Buffers library. Protocol Buffers are a way of encoding structured data in an efficient yet extensible format." />
       <item value="protobuf" />
@@ -44,20 +53,11 @@
       <item value="CLUSTERDOWN The cluster is down" />
       <item value="BLOCK CHAIN INVENTORY" />
       <item value="BLOCK CHAIN_INVENTORY" />
-      <item value="BLOCK_CHAIN_INVENTORY" />
-      <item value="seed" />
-      <item value="List of the seed nodes" />
-      <item value="voteCount" />
-      <item value="crypto" />
-      <item value="cry" />
-      <item value="consensus" />
-      <item value="CONTRACT VALIDATE ERROR" />
-      <item value="CONTRACT_VALIDATE_ERROR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="523" />
-        <entry key="ENGLISH" value="484" />
+        <entry key="CHINESE" value="550" />
+        <entry key="ENGLISH" value="512" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
