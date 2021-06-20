@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="trongrid" />
       <item value="Error: ETIMEDOUT" />
       <item value="充值" />
       <item value="rechange" />
@@ -52,11 +53,10 @@
       <item value="non null hash key required" />
       <item value="It's likely that neither a Result Type nor a Result Map was specified." />
       <item value="strip Trailing Zeros" />
-      <item value="'while' statement cannot complete without throwing an exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="594" />
+        <entry key="CHINESE" value="595" />
         <entry key="ENGLISH" value="555" />
         <entry key="FRENCH" value="3" />
         <entry key="LUXEMBOURGISH" value="1" />
