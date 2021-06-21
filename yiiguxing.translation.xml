@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="score" />
+      <item value="Average Cost" />
+      <item value="Pledge" />
+      <item value="The new saturation point for Stakepools will be 63.6 million ADA from December 6th. If the &quot;Pool Size&quot; parameter of your Stakepool is over this limit, delegate to a new stakepool to avoid less than expected rewards" />
       <item value="Converts between an array of bytes and a Base58Check string. Not instantiable." />
       <item value="trongrid" />
       <item value="Error: ETIMEDOUT" />
@@ -49,15 +53,11 @@
       <item value="to Epoch Second" />
       <item value="to Epoch Milli" />
       <item value="writev() failed (104: Connection reset by peer) while sending response to client" />
-      <item value="worker_connections exceed open file resource limit: 1024" />
-      <item value="tinder" />
-      <item value="non null hash key required" />
-      <item value="It's likely that neither a Result Type nor a Result Map was specified." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="595" />
-        <entry key="ENGLISH" value="556" />
+        <entry key="CHINESE" value="599" />
+        <entry key="ENGLISH" value="559" />
         <entry key="FRENCH" value="3" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
