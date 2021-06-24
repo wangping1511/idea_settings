@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="定时任务" />
       <item value="orangutan" />
       <item value="猩猩" />
       <item value="xing xing" />
@@ -52,12 +53,11 @@
       <item value="The Bouncy Castle Crypto package is a Java implementation of cryptographic algorithms. This jar contains JCE provider and lightweight API for the Bouncy Castle Cryptography APIs for JDK 1.5 and up." />
       <item value="安全密码" />
       <item value="an" />
-      <item value="转账失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="651" />
-        <entry key="ENGLISH" value="608" />
+        <entry key="CHINESE" value="659" />
+        <entry key="ENGLISH" value="616" />
         <entry key="FRENCH" value="3" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
