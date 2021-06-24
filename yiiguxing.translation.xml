@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="probably busy-waiting " />
+      <item value="probably busy-waiting" />
+      <item value="Call to 'Thread.sleep()' in a loop, probably busy-waiting" />
+      <item value="revert" />
+      <item value="OUT OF ENERGY" />
+      <item value="OUT OF_ENERGY" />
+      <item value="OUT_OF_ENERGY" />
       <item value="定时任务" />
       <item value="orangutan" />
       <item value="猩猩" />
@@ -46,17 +53,10 @@
       <item value="币种" />
       <item value="币zhong" />
       <item value="币" />
-      <item value="币总" />
-      <item value="spongycastle" />
-      <item value="Core Protocol Buffers library. Protocol Buffers are a way of encoding structured data in an efficient yet extensible format." />
-      <item value="protobuf" />
-      <item value="The Bouncy Castle Crypto package is a Java implementation of cryptographic algorithms. This jar contains JCE provider and lightweight API for the Bouncy Castle Cryptography APIs for JDK 1.5 and up." />
-      <item value="安全密码" />
-      <item value="an" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="659" />
+        <entry key="CHINESE" value="663" />
         <entry key="ENGLISH" value="616" />
         <entry key="FRENCH" value="3" />
         <entry key="LUXEMBOURGISH" value="1" />
