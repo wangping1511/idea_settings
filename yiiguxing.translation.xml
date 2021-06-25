@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="查找" />
+      <item value="Inquire" />
+      <item value="查询" />
+      <item value="search" />
+      <item value="selecte" />
+      <item value="assets" />
+      <item value="asset" />
       <item value="Possible SECURITY ATTACK detected. It looks like somebody is sending POST or Host: commands to Redis. This is likely due to an attacker attempting to use Cross Protocol Scripting to compromise your Redis instance. Connection aborted." />
       <item value="I have keys for slot 16290, but the slot is assigned to another node. Setting it to importing state." />
       <item value="probably busy-waiting " />
@@ -46,18 +53,11 @@
       <item value="transfer" />
       <item value="validate" />
       <item value="verifica" />
-      <item value="验证" />
-      <item value="校验参数" />
-      <item value="校验" />
-      <item value="yan z" />
-      <item value="阳子" />
-      <item value="currency" />
-      <item value="币种" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="666" />
-        <entry key="ENGLISH" value="616" />
+        <entry key="CHINESE" value="682" />
+        <entry key="ENGLISH" value="630" />
         <entry key="FRENCH" value="3" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
