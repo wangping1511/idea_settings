@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="灰色" />
+      <item value="cyan" />
+      <item value="blue" />
+      <item value="绿色" />
+      <item value="magenta" />
+      <item value="blur" />
+      <item value="blu" />
+      <item value="bule" />
       <item value="maxFileSize property is mandatory" />
       <item value="additivity" />
       <item value="time Based File Naming And Triggering Policy" />
@@ -45,19 +53,11 @@
       <item value="The new saturation point for Stakepools will be 63.6 million ADA from December 6th. If the &quot;Pool Size&quot; parameter of your Stakepool is over this limit, delegate to a new stakepool to avoid less than expected rewards" />
       <item value="Converts between an array of bytes and a Base58Check string. Not instantiable." />
       <item value="trongrid" />
-      <item value="Error: ETIMEDOUT" />
-      <item value="充值" />
-      <item value="rechange" />
-      <item value="APIs define related collections and environments under a consistent schema." />
-      <item value="ostman's command-line companion lets you do amazing things! With Newman, you can integrate Postman collections with your build system. Or you can run automated tests for your API through a cron job." />
-      <item value="block_header" />
-      <item value="trx Decimal Places" />
-      <item value="小数位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="683" />
-        <entry key="ENGLISH" value="634" />
+        <entry key="CHINESE" value="698" />
+        <entry key="ENGLISH" value="652" />
         <entry key="FRENCH" value="3" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
