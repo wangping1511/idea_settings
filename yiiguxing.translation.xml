@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="上一个" />
+      <item value="上" />
       <item value="profit" />
       <item value="p_usdt_deposit_profit" />
       <item value="服务器异常" />
@@ -51,13 +53,11 @@
       <item value="xing x" />
       <item value="peach" />
       <item value="桃子" />
-      <item value="Peach" />
-      <item value="桃" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="728" />
-        <entry key="ENGLISH" value="685" />
+        <entry key="CHINESE" value="733" />
+        <entry key="ENGLISH" value="690" />
         <entry key="FRENCH" value="3" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
