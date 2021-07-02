@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="get Reference" />
       <item value=" Cannot retrieve initial cluster partitions from initial URIs" />
       <item value="Cannot retrieve initial cluster partitions from initial URIs" />
       <item value="Cron expression must consist of 6 fields" />
@@ -52,12 +53,11 @@
       <item value="probably busy-waiting" />
       <item value="Call to 'Thread.sleep()' in a loop, probably busy-waiting" />
       <item value="revert" />
-      <item value="OUT OF ENERGY" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="765" />
-        <entry key="ENGLISH" value="715" />
+        <entry key="ENGLISH" value="716" />
         <entry key="FRENCH" value="3" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
