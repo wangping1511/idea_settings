@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="stage" />
+      <item value="s" />
       <item value="get Reference" />
       <item value=" Cannot retrieve initial cluster partitions from initial URIs" />
       <item value="Cannot retrieve initial cluster partitions from initial URIs" />
@@ -51,12 +53,10 @@
       <item value="I have keys for slot 16290, but the slot is assigned to another node. Setting it to importing state." />
       <item value="probably busy-waiting " />
       <item value="probably busy-waiting" />
-      <item value="Call to 'Thread.sleep()' in a loop, probably busy-waiting" />
-      <item value="revert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="765" />
+        <entry key="CHINESE" value="766" />
         <entry key="ENGLISH" value="716" />
         <entry key="FRENCH" value="3" />
         <entry key="LUXEMBOURGISH" value="1" />
