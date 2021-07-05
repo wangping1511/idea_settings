@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Most common reasons for this are:&#10;&#10; * Target node is unreachable (e.g. due to hostname resolution, TCP connection or firewall issues)&#10; * CLI tool fails to authenticate with the server (e.g. due to CLI tool's Erlang cookie not matching that of the server)&#10; * Target node is not running" />
+      <item value="unable to perform an operation on node 'rabbit@3tao-mysql'. Please see diagnostics information and suggestions below." />
+      <item value="Displays quorum status of a quorum queue" />
+      <item value="purge_queue" />
       <item value="MISCONF Errors writing to the AOF file: No space left on device" />
       <item value="profit" />
       <item value="stage" />
@@ -49,14 +53,10 @@
       <item value="查询" />
       <item value="search" />
       <item value="selecte" />
-      <item value="assets" />
-      <item value="asset" />
-      <item value="I have keys for slot 16290, but the slot is assigned to another node. Setting it to importing state." />
-      <item value="probably busy-waiting " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="768" />
+        <entry key="CHINESE" value="772" />
         <entry key="ENGLISH" value="716" />
         <entry key="FRENCH" value="3" />
         <entry key="LUXEMBOURGISH" value="1" />
