@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="充值&#10;" />
+      <item value="chonz g" />
+      <item value="chon" />
       <item value="Most common reasons for this are:&#10;&#10; * Target node is unreachable (e.g. due to hostname resolution, TCP connection or firewall issues)&#10; * CLI tool fails to authenticate with the server (e.g. due to CLI tool's Erlang cookie not matching that of the server)&#10; * Target node is not running" />
       <item value="unable to perform an operation on node 'rabbit@3tao-mysql'. Please see diagnostics information and suggestions below." />
       <item value="Displays quorum status of a quorum queue" />
@@ -50,14 +53,11 @@
       <item value="Required request body is missing:" />
       <item value="查找" />
       <item value="Inquire" />
-      <item value="查询" />
-      <item value="search" />
-      <item value="selecte" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="772" />
-        <entry key="ENGLISH" value="716" />
+        <entry key="CHINESE" value="778" />
+        <entry key="ENGLISH" value="722" />
         <entry key="FRENCH" value="3" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
