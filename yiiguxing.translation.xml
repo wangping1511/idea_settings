@@ -3,6 +3,15 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Spring Application" />
+      <item value="·" />
+      <item value="framework" />
+      <item value="frame wo" />
+      <item value="frame" />
+      <item value="f ra" />
+      <item value="商业" />
+      <item value="bui" />
+      <item value="bu" />
       <item value="空虚" />
       <item value="empty" />
       <item value="extracted_amount" />
@@ -44,20 +53,11 @@
       <item value="Append mode is mandatory for RollingFileAppender. Defaulting to append=true." />
       <item value="灰色" />
       <item value="cyan" />
-      <item value="blue" />
-      <item value="绿色" />
-      <item value="magenta" />
-      <item value="blur" />
-      <item value="blu" />
-      <item value="bule" />
-      <item value="maxFileSize property is mandatory" />
-      <item value="additivity" />
-      <item value="time Based File Naming And Triggering Policy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="792" />
-        <entry key="ENGLISH" value="733" />
+        <entry key="CHINESE" value="813" />
+        <entry key="ENGLISH" value="755" />
         <entry key="FRENCH" value="3" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
