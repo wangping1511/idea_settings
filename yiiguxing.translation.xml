@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Generating equals/hashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type. " />
+      <item value="base" />
       <item value="Raw use of parameterized class 'FilterRegistrationBean' " />
       <item value="unascribed" />
       <item value="deprecated" />
@@ -51,12 +53,10 @@
       <item value="p_usdt_deposit_profit" />
       <item value="服务器异常" />
       <item value="服务器" />
-      <item value="SERVE ERROR" />
-      <item value="服务" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="815" />
+        <entry key="CHINESE" value="817" />
         <entry key="ENGLISH" value="760" />
         <entry key="FRENCH" value="3" />
         <entry key="CZECH" value="1" />
