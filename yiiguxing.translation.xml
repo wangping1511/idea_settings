@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="java Type" />
+      <item value="numeric Scale" />
+      <item value="where Strategy" />
+      <item value="condition" />
       <item value="Generating equals/hashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type. " />
       <item value="base" />
       <item value="Raw use of parameterized class 'FilterRegistrationBean' " />
@@ -49,15 +53,11 @@
       <item value="Reason: Not enough energy for 'save just created contract code' executing: needEnergy[444200], leftEnergy[11857];. Transaction here " />
       <item value="ssh: connect to host 5.188.134.228 port 22: Network is unreachable" />
       <item value="上一个" />
-      <item value="上" />
-      <item value="p_usdt_deposit_profit" />
-      <item value="服务器异常" />
-      <item value="服务器" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="817" />
-        <entry key="ENGLISH" value="760" />
+        <entry key="ENGLISH" value="764" />
         <entry key="FRENCH" value="3" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
