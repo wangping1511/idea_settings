@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Auto-merging" />
       <item value="Constants" />
       <item value="前缀" />
       <item value="Use &quot;*&quot; to expose all endpoints, or a comma-separated list to expose selected ones" />
@@ -52,11 +53,10 @@
       <item value="purge_queue" />
       <item value="MISCONF Errors writing to the AOF file: No space left on device" />
       <item value="profit" />
-      <item value="stage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="842" />
+        <entry key="CHINESE" value="843" />
         <entry key="ENGLISH" value="784" />
         <entry key="FRENCH" value="3" />
         <entry key="CZECH" value="1" />
