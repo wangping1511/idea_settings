@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="STATELESS" />
       <item value="Enable Global Method Security" />
       <item value="pre Post Enabled" />
       <item value="Auto-merging" />
@@ -52,12 +53,11 @@
       <item value="Most common reasons for this are:&#10;&#10; * Target node is unreachable (e.g. due to hostname resolution, TCP connection or firewall issues)&#10; * CLI tool fails to authenticate with the server (e.g. due to CLI tool's Erlang cookie not matching that of the server)&#10; * Target node is not running" />
       <item value="unable to perform an operation on node 'rabbit@3tao-mysql'. Please see diagnostics information and suggestions below." />
       <item value="Displays quorum status of a quorum queue" />
-      <item value="purge_queue" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="843" />
-        <entry key="ENGLISH" value="786" />
+        <entry key="ENGLISH" value="787" />
         <entry key="FRENCH" value="3" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
