@@ -3,6 +3,15 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Skipping bootstrap because certbot-auto is deprecated on this system.&#10;Your system is not supported by certbot-auto anymore.&#10;Certbot cannot be installed.&#10;Please visit https://certbot.eff.org/ to check for other alternatives." />
+      <item value="Skipping bootstrap because certbot-auto is deprecated on this system." />
+      <item value="MP OPTLOCK VERSION ORIGINAL" />
+      <item value="Parameter 'MP_OPTLOCK_VERSION_ORIGINAL' not found" />
+      <item value="乐观锁" />
+      <item value="乐观suo" />
+      <item value="乐观说" />
+      <item value="deleted" />
+      <item value="No ParameterResolver registered for parameter [final com.orangutan.admin.business.service.SysUserService sysUserService] in constructor" />
       <item value="STATELESS" />
       <item value="Enable Global Method Security" />
       <item value="pre Post Enabled" />
@@ -44,20 +53,11 @@
       <item value="bui" />
       <item value="bu" />
       <item value="空虚" />
-      <item value="empty" />
-      <item value="extracted_amount" />
-      <item value=" Cannot determine a partition for slot 7883." />
-      <item value="充值&#10;" />
-      <item value="chonz g" />
-      <item value="chon" />
-      <item value="Most common reasons for this are:&#10;&#10; * Target node is unreachable (e.g. due to hostname resolution, TCP connection or firewall issues)&#10; * CLI tool fails to authenticate with the server (e.g. due to CLI tool's Erlang cookie not matching that of the server)&#10; * Target node is not running" />
-      <item value="unable to perform an operation on node 'rabbit@3tao-mysql'. Please see diagnostics information and suggestions below." />
-      <item value="Displays quorum status of a quorum queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="843" />
-        <entry key="ENGLISH" value="787" />
+        <entry key="CHINESE" value="856" />
+        <entry key="ENGLISH" value="800" />
         <entry key="FRENCH" value="3" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625752528942" />
+    <option name="lastTrimTime" value="1626187360080" />
   </component>
 </application>
