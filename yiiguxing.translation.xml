@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Error parsing HTTP request header&#10; Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level." />
       <item value="Asynchronous AOF fsync is taking too long (disk is busy?). Writing the AOF buffer without waiting for fsync to complete, this may slow down Redis." />
       <item value="Starting automatic rewriting of AOF on 702% growth" />
       <item value="六月" />
@@ -52,11 +53,10 @@
       <item value="NOT ENOUGH_EFFECTIVE_CONNECTION" />
       <item value="NOT_ENOUGH_EFFECTIVE_CONNECTION" />
       <item value="your local changes would be overwritten by cherry-pick. hint: commit your changes or stash them to proceed. cherry-pick failed" />
-      <item value="commit your changes or stash them to proceed.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="903" />
+        <entry key="CHINESE" value="904" />
         <entry key="ENGLISH" value="838" />
         <entry key="FRENCH" value="3" />
         <entry key="CZECH" value="1" />
