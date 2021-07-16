@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="'while' statement cannot complete without throwing an exception " />
+      <item value="available" />
       <item value="成功" />
       <item value="NON NULL" />
       <item value="validation" />
@@ -51,12 +53,10 @@
       <item value="numeric Scale" />
       <item value="where Strategy" />
       <item value="condition" />
-      <item value="Generating equals/hashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type. " />
-      <item value="base" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="885" />
+        <entry key="CHINESE" value="887" />
         <entry key="ENGLISH" value="826" />
         <entry key="FRENCH" value="3" />
         <entry key="CZECH" value="1" />
