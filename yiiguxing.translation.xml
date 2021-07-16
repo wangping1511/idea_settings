@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Asynchronous AOF fsync is taking too long (disk is busy?). Writing the AOF buffer without waiting for fsync to complete, this may slow down Redis." />
+      <item value="Starting automatic rewriting of AOF on 702% growth" />
+      <item value="六月" />
+      <item value="liu" />
+      <item value="jun" />
+      <item value="jul" />
+      <item value="Possible SECURITY ATTACK detected. It looks like somebody is sending POST or Host: commands to Redis. This is likely due to an attacker attempting to use Cross Protocol Scripting to compromise your Redis instance. Connection aborted." />
       <item value="'while' statement cannot complete without throwing an exception " />
       <item value="available" />
       <item value="成功" />
@@ -46,18 +53,11 @@
       <item value="NOT_ENOUGH_EFFECTIVE_CONNECTION" />
       <item value="your local changes would be overwritten by cherry-pick. hint: commit your changes or stash them to proceed. cherry-pick failed" />
       <item value="commit your changes or stash them to proceed.&#10;" />
-      <item value="your local changes would be overwritten by cherry-pick.&#10;" />
-      <item value="生成" />
-      <item value="生产" />
-      <item value="java Type" />
-      <item value="numeric Scale" />
-      <item value="where Strategy" />
-      <item value="condition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="887" />
-        <entry key="ENGLISH" value="826" />
+        <entry key="CHINESE" value="903" />
+        <entry key="ENGLISH" value="838" />
         <entry key="FRENCH" value="3" />
         <entry key="CZECH" value="1" />
         <entry key="LATIN" value="1" />
