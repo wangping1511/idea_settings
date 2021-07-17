@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="conflicts with existing, non-compatible bean definition of same name and class" />
+      <item value="Annotation-specified bean name 'jwtUtils' for bean class" />
       <item value="Suspicious regex expression &quot;.&quot; in call to 'split()' " />
       <item value="验证" />
       <item value="校验" />
@@ -51,13 +53,11 @@
       <item value="Call to 'Thread.sleep()' in a loop, probably busy-waiting " />
       <item value="Please deploy a DNS TXT record under the name:&#10;&#10;_acme-challenge.www.imbtoken.com.&#10;&#10;with the following value:&#10;&#10;MGjHijztCuy3oXaj9hohFGYJZ2ivuONM1NYTfYIR9NA" />
       <item value="error: too early for operation, device not yet seeded or device model not acknowledged" />
-      <item value="Skipping bootstrap because certbot-auto is deprecated on this system.&#10;Your system is not supported by certbot-auto anymore.&#10;Certbot cannot be installed.&#10;Please visit https://certbot.eff.org/ to check for other alternatives." />
-      <item value="Skipping bootstrap because certbot-auto is deprecated on this system." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="955" />
-        <entry key="ENGLISH" value="893" />
+        <entry key="ENGLISH" value="895" />
         <entry key="FRENCH" value="3" />
         <entry key="CZECH" value="1" />
         <entry key="LATIN" value="1" />
