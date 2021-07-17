@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="验证" />
+      <item value="校验" />
+      <item value="j ai" />
+      <item value="ji" />
+      <item value="样" />
+      <item value="yan" />
       <item value="configurationprocessor" />
       <item value="payload" />
       <item value="play Load" />
@@ -47,17 +53,11 @@
       <item value="Skipping bootstrap because certbot-auto is deprecated on this system.&#10;Your system is not supported by certbot-auto anymore.&#10;Certbot cannot be installed.&#10;Please visit https://certbot.eff.org/ to check for other alternatives." />
       <item value="Skipping bootstrap because certbot-auto is deprecated on this system." />
       <item value="MP OPTLOCK VERSION ORIGINAL" />
-      <item value="Parameter 'MP_OPTLOCK_VERSION_ORIGINAL' not found" />
-      <item value="乐观锁" />
-      <item value="乐观suo" />
-      <item value="乐观说" />
-      <item value="deleted" />
-      <item value="No ParameterResolver registered for parameter [final com.orangutan.admin.business.service.SysUserService sysUserService] in constructor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="928" />
-        <entry key="ENGLISH" value="867" />
+        <entry key="CHINESE" value="954" />
+        <entry key="ENGLISH" value="893" />
         <entry key="FRENCH" value="3" />
         <entry key="CZECH" value="1" />
         <entry key="LATIN" value="1" />
