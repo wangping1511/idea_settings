@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="CLUSTERDOWN Hash slot not served" />
+      <item value="The following slots are open" />
       <item value="snap &quot;core&quot; has no updates available" />
       <item value="Distributions with snap pre-installed" />
       <item value="conflicts with existing, non-compatible bean definition of same name and class" />
@@ -51,12 +53,10 @@
       <item value="Anonymous Post Mapping" />
       <item value="your local changes would be overwritten by cherry-pick." />
       <item value="set Rejected Execution Handler" />
-      <item value="Caller Runs Policy" />
-      <item value="Call to 'Thread.sleep()' in a loop, probably busy-waiting " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="957" />
+        <entry key="CHINESE" value="959" />
         <entry key="ENGLISH" value="895" />
         <entry key="FRENCH" value="3" />
         <entry key="CZECH" value="1" />
@@ -71,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626187360080" />
+    <option name="lastTrimTime" value="1626637755530" />
   </component>
 </application>
